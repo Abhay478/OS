@@ -1,0 +1,672 @@
+                        	123.02Ki (296.60B/s)	33.16Ki (79.95B/s)	com.apple.kernelmanagerd
+                        	449.10B (1.06B/s)	0.00B (0.00B/s)	com.apple.KernelEventAgent
+                        	123.02Ki (296.60B/s)	33.16Ki (79.95B/s)	com.apple.kernelmanagerd
+                        	449.10B (1.06B/s)	0.00B (0.00B/s)	com.apple.KernelEventAgent
+                        	98.07B (0.16B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	319.93Ki (546.01B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	535.91Ki (1.47Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	67.17B (0.11B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	371.91Ki (634.83B/s)	0.00B (0.00B/s)	com.apple.KernelEventAgent
+                        	849.02Ki (1.13Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	200.31B (0.33B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	623.87Ki (1.04Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	711.31Ki (2.42Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	895.80Ki (1.43Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	748.01Ki (1.25Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	1.38Mi (2.57Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	594.72B (0.99B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	600.24Ki (1.08Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	3.44Mi (5.87Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	675.99Ki (1.13Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	860.11Ki (1.43Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	1.50Mi (2.56Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	133.10B (0.22B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	67.27Ki (1017.14B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	145.03B (0.24B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	226.43Ki (989.16B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	349.62B (1.93B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	67.33Ki (103.27B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	751.86Ki (1.25Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	1.25Mi (2.13Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	699.88Ki (1.17Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	711.89Ki (1.19Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	1.01Mi (1.73Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	659.88Ki (867.42B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	189.24B (0.32B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	19.44B (0.03B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	127.30B (0.21B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	127.98Ki (218.40B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	240.21B (0.40B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	140.44B (0.23B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	675.88Ki (1.13Ki/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	125.74B (0.21B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	124.25B (0.21B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+                        	265.48B (0.44B/s)	0.00B (0.00B/s)	com.apple.kernelmanagerd
+00:00:00	(0.0 %)		232.56	(0.0 %)		com.apple.kernelmanagerd
+00:00:00	(0.0 %)		  1.68	(0.0 %)		com.apple.KernelEventAgent
+    386 (0.0/sec)	     67 wkups (0.0/sec)	com.apple.kernelmanagerd
+      7 (0.0/sec)	      1 wkups (0.0/sec)	com.apple.KernelEventAgent
+      4	com.apple.kernelmanagerd
+      4	com.apple.KernelEventAgent
+00:00:00	0.00 %		com.apple.KernelEventAgent
+00:00:00	0.00 %		com.apple.kernelmanagerd
+                	13.01Mi	12.09Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.32Mi	1.11Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.76Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	11.34Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.11Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.13Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.77Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	11.45Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.76Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.61Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	10.94Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.32Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	10.55Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.11Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.75Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.02Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.18Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.18Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.15Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	9.62Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	11.91Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.17Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.15Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.51Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	11.69Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	8.34Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	11.82Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	9.14Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	11.56Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	10.31Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.74Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	11.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	11.16Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.23Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	11.54Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	11.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.74Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.68Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.75Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.15Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	11.19Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.75Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	10.59Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	10.57Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.23Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	10.03Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.75Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	11.11Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.39Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	10.99Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	11.98Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.48Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	11.87Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.23Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.27Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.03Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.62Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.11Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.23Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	11.43Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.29Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.16Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.20Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	9.80Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	11.80Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.28Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	11.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	10.57Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.09Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	8.62Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.51Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.59Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	11.87Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.03Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.75Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	10.97Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	10.55Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.75Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	11.40Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.27Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	11.18Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.17Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	11.58Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	11.08Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.11Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.57Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.11Mi	11.81Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.31Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.49Mi	11.54Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	705.35Ki	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.09Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	11.62Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.71Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.02Mi	10.30Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.10Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	9.74Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	11.17Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	11.51Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.58Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.69Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.75Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	10.52Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	11.57Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.56Mi	11.17Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	11.20Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.74Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	10.20Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.23Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.07Mi	12.29Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	11.90Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.69Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	9.64Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	10.32Mi	3.96Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.39Mi	116.95Ki	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.10Mi	12.51Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.53Mi	12.12Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.53Mi	12.12Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	11.56Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.53Mi	12.12Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.69Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	11.43Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	10.55Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.19Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.73Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.11Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.04Mi	11.19Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	11.52Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.06Mi	12.70Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.59Mi	12.22Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.08Mi	12.28Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	9.66Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.05Mi	12.72Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.33Mi	1.14Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	10.97Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.03Mi	9.66Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.12Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.53Mi	12.12Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.53Mi	12.12Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.53Mi	12.12Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	13.09Mi	10.55Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.31Mi	1.09Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                	12.53Mi	12.12Mi	0.00B	0.00B	com.apple.kernelmanagerd
+                	1.38Mi	1.19Mi	0.00B	0.00B	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	5	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	10	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	4	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	3	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	4	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	3	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	3	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	5	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	4	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	5	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	3	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	4	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	4	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	4	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	2	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent
+                  	00:00:00 (0.0%)  	0	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	1	com.apple.kernelmanagerd
+                  	00:00:00 (0.0%)  	0	com.apple.KernelEventAgent

@@ -1,0 +1,21 @@
+unsigned int			__state;                ::The process state::
+int				        prio;                   ::Process/thread priority::
+struct sched_statistics stats;                  ::Scheduling statistics::
+int				        pdeath_signal;          ::The signal sent when the parent dies::
+pid_t				    pid;                    ::Thread ID from kernel's POV::
+pid_t				    tgid;                   ::Thread group ID equivalent to POSIX process-ID::
+struct task_struct __rcu    *real_parent;       ::Real parent process::
+struct list_head		children;               ::List of child processes::
+struct list_head		sibling;                ::List of sibling processes::
+struct task_struct		*group_leader;          ::Leader of thread group::
+struct list_head		ptraced;                ::list of tasks this task is using ptrace() on.::
+struct list_head		thread_group;           ::list of threads of this process::
+unsigned long			nvcsw;                  ::#Voluntary Context switch counts::
+unsigned long			nivcsw;                 ::#Involuntary Context switch counts:: 
+u64				        start_time;             ::Monotonic time in ns::
+u64				        start_boottime;         ::Boot based time in ns::
+char				    comm[TASK_COMM_LEN];    ::executable name, excluding path, like ls::
+struct fs_struct		*fs;                    ::Filesystem information::
+struct files_struct		*files;                 ::Open file information::
+
+ 

@@ -1,0 +1,4 @@
+Value: 3.14316
+Ticks: 1.50998e+07 microseconds
+
+Time: 3.12699e+07
