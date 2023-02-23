@@ -1,0 +1,300 @@
+Thread 8 requests to enter CS at time 3.048000 ms
+Thread 8 entered CS at time 3.129000 ms
+Thread 6 requests to enter CS at time 3.054000 ms
+Thread 1 requests to enter CS at time 3.110000 ms
+Thread 3 requests to enter CS at time 3.187000 ms
+Thread 4 requests to enter CS at time 3.072000 ms
+Thread 2 requests to enter CS at time 3.261000 ms
+Thread 7 requests to enter CS at time 3.201000 ms
+Thread 9 requests to enter CS at time 3.267000 ms
+Thread 5 requests to enter CS at time 5.095000 ms
+Thread 0 requests to enter CS at time 5.297000 ms
+Thread 8 exited CS at time 1430.578003 ms
+Thread 2 entered CS at time 1430.580933 ms
+Thread 2 exited CS at time 1476.896973 ms
+Thread 7 entered CS at time 1476.897949 ms
+Thread 8 requests to enter CS at time 1961.673950 ms
+Thread 2 requests to enter CS at time 2330.319824 ms
+Thread 7 exited CS at time 4053.739990 ms
+Thread 0 entered CS at time 4053.756348 ms
+Thread 7 requests to enter CS at time 4377.439941 ms
+Thread 0 exited CS at time 4928.912109 ms
+Thread 1 entered CS at time 4928.916016 ms
+Thread 0 requests to enter CS at time 5530.416992 ms
+Thread 1 exited CS at time 7498.606934 ms
+Thread 9 entered CS at time 7498.606934 ms
+Thread 1 requests to enter CS at time 7631.370117 ms
+Thread 9 exited CS at time 8949.286133 ms
+Thread 7 entered CS at time 8949.289062 ms
+Thread 9 requests to enter CS at time 9241.095703 ms
+Thread 9 entered CS at time 10333.794922 ms
+Thread 7 exited CS at time 10333.794922 ms
+Thread 7 requests to enter CS at time 10885.598633 ms
+Thread 9 exited CS at time 11354.915039 ms
+Thread 7 entered CS at time 11354.915039 ms
+Thread 9 requests to enter CS at time 11918.676758 ms
+Thread 7 exited CS at time 12228.801758 ms
+Thread 5 entered CS at time 12228.812500 ms
+Thread 0 entered CS at time 12451.456055 ms
+Thread 5 exited CS at time 12451.456055 ms
+Thread 7 requests to enter CS at time 12484.157227 ms
+Thread 5 requests to enter CS at time 12674.348633 ms
+Thread 0 exited CS at time 12854.919922 ms
+Thread 4 entered CS at time 12854.929688 ms
+Thread 0 requests to enter CS at time 13630.894531 ms
+Thread 4 exited CS at time 20024.498047 ms
+Thread 0 entered CS at time 20024.500000 ms
+Thread 4 requests to enter CS at time 20168.656250 ms
+Thread 0 exited CS at time 21096.019531 ms
+Thread 3 entered CS at time 21096.033203 ms
+Thread 0 requests to enter CS at time 21116.361328 ms
+Thread 3 exited CS at time 22066.832031 ms
+Thread 5 entered CS at time 22066.832031 ms
+Thread 5 exited CS at time 22151.884766 ms
+Thread 8 entered CS at time 22151.888672 ms
+Thread 3 requests to enter CS at time 22769.976562 ms
+Thread 8 exited CS at time 24055.654297 ms
+Thread 1 entered CS at time 24055.654297 ms
+Thread 8 requests to enter CS at time 24908.179688 ms
+Thread 5 requests to enter CS at time 25995.167969 ms
+Thread 1 exited CS at time 27410.001953 ms
+Thread 9 entered CS at time 27410.001953 ms
+Thread 1 requests to enter CS at time 27587.261719 ms
+Thread 0 entered CS at time 28438.937500 ms
+Thread 9 exited CS at time 28438.937500 ms
+Thread 9 requests to enter CS at time 28668.296875 ms
+Thread 0 exited CS at time 28823.849609 ms
+Thread 1 entered CS at time 28823.849609 ms
+Thread 0 requests to enter CS at time 28910.910156 ms
+Thread 1 exited CS at time 29399.912109 ms
+Thread 5 entered CS at time 29399.912109 ms
+Thread 1 requests to enter CS at time 29712.289062 ms
+Thread 1 entered CS at time 29924.730469 ms
+Thread 5 exited CS at time 29924.730469 ms
+Thread 1 exited CS at time 30016.378906 ms
+Thread 2 entered CS at time 30016.378906 ms
+Thread 2 exited CS at time 30104.873047 ms
+Thread 6 entered CS at time 30104.884766 ms
+Thread 0 entered CS at time 30139.636719 ms
+Thread 6 exited CS at time 30139.636719 ms
+Thread 2 requests to enter CS at time 30273.472656 ms
+Thread 0 exited CS at time 30283.537109 ms
+Thread 2 entered CS at time 30283.537109 ms
+Thread 6 requests to enter CS at time 30523.763672 ms
+Thread 5 requests to enter CS at time 30608.822266 ms
+Thread 1 requests to enter CS at time 31216.111328 ms
+Thread 2 exited CS at time 31254.037109 ms
+Thread 4 entered CS at time 31254.037109 ms
+Thread 4 exited CS at time 32105.259766 ms
+Thread 3 entered CS at time 32105.259766 ms
+Thread 3 exited CS at time 32238.369141 ms
+Thread 9 entered CS at time 32238.369141 ms
+Thread 3 requests to enter CS at time 32619.869141 ms
+Thread 4 requests to enter CS at time 32934.960938 ms
+Thread 0 requests to enter CS at time 33132.824219 ms
+Thread 2 requests to enter CS at time 33265.363281 ms
+Thread 8 entered CS at time 33638.500000 ms
+Thread 9 exited CS at time 33638.500000 ms
+Thread 9 requests to enter CS at time 33651.414062 ms
+Thread 8 exited CS at time 33725.941406 ms
+Thread 9 entered CS at time 33725.941406 ms
+Thread 9 exited CS at time 34050.097656 ms
+Thread 1 entered CS at time 34050.097656 ms
+Thread 9 requests to enter CS at time 34186.050781 ms
+Thread 8 requests to enter CS at time 34245.863281 ms
+Thread 8 entered CS at time 35210.718750 ms
+Thread 1 exited CS at time 35210.718750 ms
+Thread 1 requests to enter CS at time 35260.058594 ms
+Thread 8 exited CS at time 35347.480469 ms
+Thread 7 entered CS at time 35347.480469 ms
+Thread 8 requests to enter CS at time 35601.343750 ms
+Thread 7 exited CS at time 36384.507812 ms
+Thread 0 entered CS at time 36384.511719 ms
+Thread 7 requests to enter CS at time 36732.726562 ms
+Thread 0 exited CS at time 37201.894531 ms
+Thread 1 entered CS at time 37201.894531 ms
+Thread 0 requests to enter CS at time 37728.281250 ms
+Thread 1 exited CS at time 38414.808594 ms
+Thread 0 entered CS at time 38414.808594 ms
+Thread 0 exited CS at time 39800.777344 ms
+Thread 7 entered CS at time 39800.777344 ms
+Thread 7 exited CS at time 40887.750000 ms
+Thread 2 entered CS at time 40887.765625 ms
+Thread 7 requests to enter CS at time 41161.394531 ms
+Thread 1 requests to enter CS at time 42465.058594 ms
+Thread 2 exited CS at time 42609.507812 ms
+Thread 6 entered CS at time 42609.507812 ms
+Thread 0 requests to enter CS at time 42696.097656 ms
+Thread 6 exited CS at time 44828.285156 ms
+Thread 1 entered CS at time 44828.285156 ms
+Thread 1 exited CS at time 44848.281250 ms
+Thread 7 entered CS at time 44848.289062 ms
+Thread 7 exited CS at time 45271.726562 ms
+Thread 8 entered CS at time 45271.730469 ms
+Thread 8 exited CS at time 45387.347656 ms
+Thread 4 entered CS at time 45387.359375 ms
+Thread 8 requests to enter CS at time 45593.921875 ms
+Thread 4 exited CS at time 45626.402344 ms
+Thread 9 entered CS at time 45626.410156 ms
+Thread 7 requests to enter CS at time 45683.453125 ms
+Thread 1 requests to enter CS at time 45728.878906 ms
+Thread 6 requests to enter CS at time 46329.714844 ms
+Thread 4 requests to enter CS at time 46673.550781 ms
+Thread 2 requests to enter CS at time 47290.226562 ms
+Thread 9 exited CS at time 48072.425781 ms
+Thread 7 entered CS at time 48072.425781 ms
+Thread 9 requests to enter CS at time 48654.621094 ms
+Thread 7 exited CS at time 48966.707031 ms
+Thread 9 entered CS at time 48966.707031 ms
+Thread 7 requests to enter CS at time 49322.757812 ms
+Thread 9 exited CS at time 49462.605469 ms
+Thread 1 entered CS at time 49462.609375 ms
+Thread 9 requests to enter CS at time 49529.824219 ms
+Thread 1 exited CS at time 49558.351562 ms
+Thread 2 entered CS at time 49558.351562 ms
+Thread 1 requests to enter CS at time 49737.507812 ms
+Thread 2 exited CS at time 52057.699219 ms
+Thread 6 entered CS at time 52057.710938 ms
+Thread 2 requests to enter CS at time 52299.960938 ms
+Thread 6 exited CS at time 53459.210938 ms
+Thread 5 entered CS at time 53459.226562 ms
+Thread 9 entered CS at time 53568.863281 ms
+Thread 5 exited CS at time 53568.863281 ms
+Thread 6 requests to enter CS at time 53658.003906 ms
+Thread 5 requests to enter CS at time 54885.246094 ms
+Thread 9 exited CS at time 55138.105469 ms
+Thread 2 entered CS at time 55138.105469 ms
+Thread 2 exited CS at time 55908.152344 ms
+Thread 8 entered CS at time 55908.156250 ms
+Thread 9 requests to enter CS at time 56843.757812 ms
+Thread 8 exited CS at time 57368.832031 ms
+Thread 6 entered CS at time 57368.832031 ms
+Thread 2 requests to enter CS at time 57605.695312 ms
+Thread 6 exited CS at time 57727.019531 ms
+Thread 3 entered CS at time 57727.035156 ms
+Thread 5 entered CS at time 57961.304688 ms
+Thread 3 exited CS at time 57961.304688 ms
+Thread 5 exited CS at time 58407.914062 ms
+Thread 2 entered CS at time 58407.914062 ms
+Thread 8 requests to enter CS at time 58574.773438 ms
+Thread 2 exited CS at time 58710.328125 ms
+Thread 9 entered CS at time 58710.328125 ms
+Thread 2 requests to enter CS at time 59059.167969 ms
+Thread 3 requests to enter CS at time 59188.003906 ms
+Thread 5 requests to enter CS at time 59609.054688 ms
+Thread 6 requests to enter CS at time 59704.753906 ms
+Thread 8 entered CS at time 64079.109375 ms
+Thread 9 exited CS at time 64079.109375 ms
+Thread 5 entered CS at time 64111.671875 ms
+Thread 8 exited CS at time 64111.671875 ms
+Thread 5 exited CS at time 64588.601562 ms
+Thread 0 entered CS at time 64588.617188 ms
+Thread 9 requests to enter CS at time 64915.101562 ms
+Thread 0 exited CS at time 65585.953125 ms
+Thread 7 entered CS at time 65585.953125 ms
+Thread 0 requests to enter CS at time 65787.414062 ms
+Thread 8 requests to enter CS at time 65854.609375 ms
+Thread 5 requests to enter CS at time 66059.257812 ms
+Thread 7 exited CS at time 66856.210938 ms
+Thread 3 entered CS at time 66856.210938 ms
+Thread 7 requests to enter CS at time 67566.468750 ms
+Thread 3 exited CS at time 68250.507812 ms
+Thread 6 entered CS at time 68250.507812 ms
+Thread 3 requests to enter CS at time 68387.570312 ms
+Thread 3 entered CS at time 68840.578125 ms
+Thread 6 exited CS at time 68840.578125 ms
+Thread 3 exited CS at time 69161.859375 ms
+Thread 0 entered CS at time 69161.859375 ms
+Thread 3 requests to enter CS at time 69245.835938 ms
+Thread 6 requests to enter CS at time 69456.984375 ms
+Thread 0 exited CS at time 71671.390625 ms
+Thread 5 entered CS at time 71671.390625 ms
+Thread 0 requests to enter CS at time 71794.429688 ms
+Thread 5 exited CS at time 72961.968750 ms
+Thread 3 entered CS at time 72961.968750 ms
+Thread 5 requests to enter CS at time 74164.351562 ms
+Thread 3 exited CS at time 74545.039062 ms
+Thread 8 entered CS at time 74545.039062 ms
+Thread 8 exited CS at time 74572.843750 ms
+Thread 7 entered CS at time 74572.843750 ms
+Thread 8 requests to enter CS at time 74789.867188 ms
+Thread 7 exited CS at time 75249.585938 ms
+Thread 1 entered CS at time 75249.593750 ms
+Thread 1 exited CS at time 75372.531250 ms
+Thread 6 entered CS at time 75372.531250 ms
+Thread 7 requests to enter CS at time 75404.226562 ms
+Thread 6 exited CS at time 75425.289062 ms
+Thread 9 entered CS at time 75425.289062 ms
+Thread 6 requests to enter CS at time 75759.656250 ms
+Thread 1 requests to enter CS at time 75942.328125 ms
+Thread 9 exited CS at time 76099.570312 ms
+Thread 1 entered CS at time 76099.570312 ms
+Thread 5 entered CS at time 77379.031250 ms
+Thread 1 exited CS at time 77379.031250 ms
+Thread 5 exited CS at time 78032.781250 ms
+Thread 2 entered CS at time 78032.789062 ms
+Thread 3 requests to enter CS at time 78128.867188 ms
+Thread 5 requests to enter CS at time 78288.937500 ms
+Thread 6 entered CS at time 78353.148438 ms
+Thread 2 exited CS at time 78353.148438 ms
+Thread 2 requests to enter CS at time 79913.875000 ms
+Thread 6 exited CS at time 79994.828125 ms
+Thread 2 entered CS at time 79994.828125 ms
+Thread 6 requests to enter CS at time 80225.140625 ms
+Thread 3 entered CS at time 82426.343750 ms
+Thread 2 exited CS at time 82426.406250 ms
+Thread 0 entered CS at time 82889.695312 ms
+Thread 3 exited CS at time 82889.695312 ms
+Thread 0 exited CS at time 83493.710938 ms
+Thread 8 entered CS at time 83493.718750 ms
+Thread 8 exited CS at time 83861.109375 ms
+Thread 5 entered CS at time 83861.109375 ms
+Thread 2 requests to enter CS at time 83884.859375 ms
+Thread 8 requests to enter CS at time 84440.781250 ms
+Thread 3 requests to enter CS at time 85085.406250 ms
+Thread 5 exited CS at time 85215.015625 ms
+Thread 7 entered CS at time 85215.023438 ms
+Thread 7 exited CS at time 85349.445312 ms
+Thread 4 entered CS at time 85349.460938 ms
+Thread 5 requests to enter CS at time 85608.734375 ms
+Thread 4 exited CS at time 85837.937500 ms
+Thread 2 entered CS at time 85837.937500 ms
+Thread 8 entered CS at time 85907.812500 ms
+Thread 2 exited CS at time 85907.812500 ms
+Thread 4 requests to enter CS at time 86775.289062 ms
+Thread 4 entered CS at time 87140.867188 ms
+Thread 8 exited CS at time 87140.867188 ms
+Thread 6 entered CS at time 87681.578125 ms
+Thread 4 exited CS at time 87681.578125 ms
+Thread 4 requests to enter CS at time 87909.796875 ms
+Thread 6 exited CS at time 87957.929688 ms
+Thread 5 entered CS at time 87957.929688 ms
+Thread 4 entered CS at time 88074.789062 ms
+Thread 5 exited CS at time 88074.789062 ms
+Thread 4 exited CS at time 88136.640625 ms
+Thread 3 entered CS at time 88136.640625 ms
+Thread 6 requests to enter CS at time 88143.710938 ms
+Thread 6 entered CS at time 88293.625000 ms
+Thread 3 exited CS at time 88293.625000 ms
+Thread 4 requests to enter CS at time 88521.132812 ms
+Thread 3 requests to enter CS at time 88681.296875 ms
+Thread 6 exited CS at time 89191.625000 ms
+Thread 4 entered CS at time 89191.625000 ms
+Thread 6 requests to enter CS at time 89222.453125 ms
+Thread 4 exited CS at time 89955.359375 ms
+Thread 3 entered CS at time 89955.359375 ms
+Thread 6 entered CS at time 90107.609375 ms
+Thread 3 exited CS at time 90107.609375 ms
+Thread 3 requests to enter CS at time 90124.312500 ms
+Thread 4 requests to enter CS at time 90736.031250 ms
+Thread 6 exited CS at time 90963.367188 ms
+Thread 3 entered CS at time 90963.367188 ms
+Thread 4 entered CS at time 93283.242188 ms
+Thread 3 exited CS at time 93283.242188 ms
+Thread 4 exited CS at time 93655.976562 ms
+Thread 4 requests to enter CS at time 94553.804688 ms
+Thread 4 entered CS at time 94553.820312 ms
+Thread 4 exited CS at time 94812.250000 ms
+Thread 4 requests to enter CS at time 94887.250000 ms
+Thread 4 entered CS at time 94887.257812 ms
+Thread 4 exited CS at time 96527.828125 ms
