@@ -1,3 +1,12 @@
+/***********************
+ * Assignment 3
+ * for CS3523
+ * by Abhay Shankar K
+ * CS21BTECH11001
+*/
+
+
+
 #include "dot.h"
 using namespace std;
 class Params;
@@ -25,7 +34,8 @@ class Params {
         fs.open("inp-params.txt", ios::in);
         fs >> n >> k >> t1 >> t2;
         fs.close();
-        f = fopen("output.txt", "w");
+        f = fopen("output.txt", "a");
+        fprintf(f, "TAS\n");
 
         for(int i = 0; i < n; i++) {
             wc.push_back((chrono::duration<double>)0); 
@@ -62,13 +72,13 @@ class Params {
 chrono::duration<double> request(int i, int id, Params * inp) {
     //entry
     auto s = chrono::system_clock::now();
-    fprintf(inp->f, "Request %d by thread %d at %lf. \n", i, id, (chrono::duration<double>) (s - init));
+    fprintf(inp->f, "CS Request %d by thread %d at %lf s. \n", i, id, (chrono::duration<double>) (s - init));
     
-    while(lck.test_and_set(memory_order_seq_cst));
+    while(lck.test_and_set());
 
     // critical
     auto e = chrono::system_clock::now();
-    fprintf(inp->f, "Entry %d by thread %d at %lf. \n", i, id, (chrono::duration<double>) (e - init));
+    fprintf(inp->f, "CS Entry %d by thread %d at %lf s. \n", i, id, (chrono::duration<double>) (e - init));
     this_thread::sleep_for((chrono::duration<double, milli>) inp->cs(gen));
 
     return (chrono::duration<double>) (e - s);
@@ -78,8 +88,8 @@ chrono::duration<double> request(int i, int id, Params * inp) {
 void accede(int i, int id, Params * inp) {
     // exit
     auto t = chrono::system_clock::now();
-    fprintf(inp->f, "Exit %d by thread %d at %lf. \n", i, id, (chrono::duration<double>) (t - init));
-    lck.clear(memory_order_seq_cst);
+    fprintf(inp->f, "CS Exit %d by thread %d at %lf s. \n", i, id, (chrono::duration<double>) (t - init));
+    lck.clear();
 
     // remainder
     this_thread::sleep_for((chrono::duration<double, milli>) inp->rs(gen));
@@ -99,8 +109,8 @@ void thread_init(Params * inp, int id) {
 
 // distribution setup
 void dists(Params * the) {
-    exponential_distribution<> cs(the->t1);
-    exponential_distribution<> rs(the->t2);
+    exponential_distribution<> cs(1/the->t1);
+    exponential_distribution<> rs(1/the->t2);
 
     the->cs = cs;
     the->rs = rs;

@@ -18,5 +18,6 @@ for i in range(10, 51, 10):
 plt.title('TAS')
 plt.legend()
 plt.grid()
-
+plt.xlabel('#Threads')
+plt.ylabel('Waiting time in seconds')
 plt.savefig('tas.png')

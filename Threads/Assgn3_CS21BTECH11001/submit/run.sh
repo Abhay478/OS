@@ -1,7 +1,19 @@
 #!/bin/bash
 
-bash bcas.sh
-bash cas.sh
-bash tas.sh
+echo Output: > output.txt
+IFS=' '
+read -r line < inp-params.txt
+read -ra params <<< $line
 
-pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder "report.tex"
+echo BCAS
+bash bcas.sh "${params[2]}" "${params[3]}"
+
+echo CAS
+bash cas.sh "${params[2]}" "${params[3]}"
+
+echo TAS
+bash tas.sh "${params[2]}" "${params[3]}"
+
+python3 wc.py
+python3 avg.py
+rm bcas cas tas *.csv

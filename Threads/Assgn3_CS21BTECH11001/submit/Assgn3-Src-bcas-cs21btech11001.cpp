@@ -1,3 +1,11 @@
+/***********************
+ * Assignment 3
+ * for CS3523
+ * by Abhay Shankar K
+ * CS21BTECH11001
+*/
+
+
 #include "dot.h"
 using namespace std;
 class Params;
@@ -27,7 +35,9 @@ class Params {
         fs.open("inp-params.txt", ios::in);
         fs >> n >> k >> t1 >> t2;
         fs.close();
-        f = fopen("output.txt", "w");
+        f = fopen("output.txt", "a");
+
+        fprintf(f, "BCAS\n");
 
         for(int i = 0; i < n; i++) {
             waiting.push_back(false); 
@@ -38,7 +48,10 @@ class Params {
 
     ~Params() {
         fclose(f);
-        for(int i = 0; i < n; i++) {waiting.pop_back(); wc.pop_back(); avg.pop_back();}
+        for(int i = 0; i < n; i++) {
+            waiting.pop_back(); 
+            wc.pop_back(); avg.pop_back();
+        }
     }
 
     // spawn
@@ -63,17 +76,23 @@ class Params {
 // Returns waiting time. Entry, critical section.
 chrono::duration<double> request(int i, int id, Params * inp) {
     // entry
-    auto s = chrono::system_clock::now();
-    fprintf(inp->f, "Request %d by thread %d at %lf. \n", i, id, (chrono::duration<double>) (s - init));
     inp->waiting[id] = true;
     int temp = 0;
-    while(inp->waiting[id] && !lck.compare_exchange_strong(temp, 1, memory_order_seq_cst)) {temp = 0;}
-    inp->waiting[id] = false;
+    auto s = chrono::system_clock::now();
+    fprintf(inp->f, "CS Request %d by thread %d at %lf s. \n", i, id, (chrono::duration<double>) (s - init));
+    while(!lck.compare_exchange_strong(temp, 1) && inp->waiting[id]) {
+        // std::this_thread::yield();
+        temp = 0;
+    }
 
     //critical
     auto e = chrono::system_clock::now();
-    fprintf(inp->f, "Entry %d by thread %d at %lf. \n", i, id, (chrono::duration<double>) (e - init));
+    fprintf(inp->f, "CS Entry %d by thread %d at %lf s. \n", i, id, (chrono::duration<double>) (e - init));
+    inp->waiting[id] = false;
     this_thread::sleep_for((chrono::duration<double, milli>) inp->cs(gen));
+
+    auto t = chrono::system_clock::now();
+    fprintf(inp->f, "CS Exit %d by thread %d at %lf s. \n", i, id, (chrono::duration<double>) (t - init));
 
     return (chrono::duration<double>) (e - s);
     
@@ -82,8 +101,6 @@ chrono::duration<double> request(int i, int id, Params * inp) {
 // Exit, remainder section.
 void accede(int i, int id, Params * inp) {
     //exit
-    auto t = chrono::system_clock::now();
-    fprintf(inp->f, "Exit %d by thread %d at %lf. \n", i, id, (chrono::duration<double>) (t - init));
     int j = (id + 1) % inp->n;
     for(; j != id; j = (j + 1) % inp->n ) {
         if(inp->waiting[j]) {
@@ -114,8 +131,8 @@ void thread_init(Params * inp, int id) {
 
 // distribution setup
 void dists(Params * the) {
-    exponential_distribution<> cs(the->t1);
-    exponential_distribution<> rs(the->t2);
+    exponential_distribution<> cs(1/the->t1);
+    exponential_distribution<> rs(1/the->t2);
 
     the->cs = cs;
     the->rs = rs;
