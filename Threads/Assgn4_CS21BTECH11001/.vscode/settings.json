@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.tex": "latex",
+        "*.cpp": "cpp",
+        "*.rs": "rust",
+        "*.c": "c",
+        "*.sql": "sql",
+        "chrono": "cpp",
+        "thread": "cpp"
+    }
+}
