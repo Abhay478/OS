@@ -7,6 +7,8 @@
         "*.c": "c",
         "*.sql": "sql",
         "chrono": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "mutex": "cpp",
+        "random": "cpp"
     }
 }

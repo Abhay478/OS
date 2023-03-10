@@ -32,13 +32,13 @@ class Params {
     FILE * f;
     int n, m, k;
 
-    Params() {
+    Params(int mode) {
         fstream fs;
         fs.open("inp-params.txt", ios::in);
         fs >> n >> m >> req_l >> cool_l >> k;
         ride_l = 5; // Hardcoded, as requested by TA. Used to be user-defined.
         fs.close();
-        f = fopen("output.txt", "a");
+        f = fopen("output.txt", mode?"w":"a");
         fprintf(f, "\n**************\n%d, %d:\n", n, m);
 
         exponential_distribution<> x1(ride_l);
@@ -336,7 +336,7 @@ void cars_init(int tnum) {
 }
 
 // main
-int main() {
+int main(int argc, char * argv[]) {
     init = chrono::system_clock::now();
     /* Debugging things.
     signal(SIGSEGV, handler);
@@ -344,7 +344,7 @@ int main() {
     */
 
    // Constructor mania.
-    the = new Params();
+    the = new Params(argc - 1);
     fleet = new Fleet();
     crowd = new Crowd();
     q_time = new Time();

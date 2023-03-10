@@ -1,1100 +1,1052 @@
-Passenger 0 enters the museum at 13.323000.
-Passenger 1 enters the museum at 13.402000.
-Passenger 0 has requested ride 0 at 13.416000.
-Car 0 has accepted Passenger 0 at 13.436000.
-Car 0 has returned Passenger 0 at 13.442000.
-Car 0 is now accepting passengers at 13.447000.
-Passenger 1 has requested ride 0 at 13.420000.
-Passenger 2 has requested ride 0 at 13.469000.
-Car 0 has accepted Passenger 1 at 13.473000.
-Car 0 has returned Passenger 1 at 13.477000.
-Car 0 is now accepting passengers at 13.483000.
-Car 1 has accepted Passenger 2 at 13.477000.
-Passenger 1 has requested ride 1 at 13.490000.
-Passenger 0 has requested ride 1 at 13.451000.
-Car 1 has returned Passenger 2 at 13.497000.
-Car 1 is now accepting passengers at 13.499000.
-Car 2 has accepted Passenger 0 at 13.502000.
-Passenger 2 has requested ride 1 at 13.504000.
-Car 1 has accepted Passenger 2 at 13.506000.
-Car 0 has accepted Passenger 1 at 13.492000.
-Car 2 has returned Passenger 0 at 13.507000.
-Car 0 has returned Passenger 1 at 13.522000.
-Car 2 is now accepting passengers at 13.524000.
-Passenger 0 has requested ride 2 at 13.527000.
-Car 0 is now accepting passengers at 13.528000.
-Car 0 has accepted Passenger 0 at 13.529000.
-Car 0 has returned Passenger 0 at 13.531000.
-Passenger 1 has requested ride 2 at 13.532000.
-Passenger 2 enters the museum at 13.449000.
-Car 0 is now accepting passengers at 13.535000.
-Passenger 0 has requested ride 3 at 13.550000.
-Car 2 has accepted Passenger 0 at 13.552000.
-Car 2 has returned Passenger 0 at 13.554000.
-Car 2 is now accepting passengers at 13.556000.
-Car 1 has returned Passenger 2 at 13.508000.
-Car 0 has accepted Passenger 1 at 13.540000.
-Passenger 0 has requested ride 4 at 13.559000.
-Car 0 has returned Passenger 1 at 13.567000.
-Car 1 has accepted Passenger 0 at 13.568000.
-Car 1 has returned Passenger 0 at 13.570000.
-Car 0 is now accepting passengers at 13.571000.
-Car 1 is now accepting passengers at 13.572000.
-Passenger 0 exits the museum at 13.574000.
-Passenger 1 has requested ride 3 at 13.578000.
-Car 0 has accepted Passenger 1 at 13.580000.
-Car 0 has returned Passenger 1 at 13.582000.
-Car 0 is now accepting passengers at 13.584000.
-Passenger 1 has requested ride 4 at 13.587000.
-Car 0 has accepted Passenger 1 at 13.589000.
-Car 0 has returned Passenger 1 at 13.591000.
-Car 0 is now accepting passengers at 13.593000.
-Passenger 1 exits the museum at 13.595000.
-Passenger 3 enters the museum at 13.615000.
-Passenger 3 has requested ride 0 at 13.637000.
-Car 0 has accepted Passenger 3 at 13.664000.
-Car 0 has returned Passenger 3 at 13.666000.
-Car 0 is now accepting passengers at 13.668000.
-Passenger 3 has requested ride 1 at 13.671000.
-Passenger 4 enters the museum at 13.672000.
-Car 1 is now accepting passengers at 13.568000.
-Car 0 has accepted Passenger 3 at 13.673000.
-Car 0 has returned Passenger 3 at 13.682000.
-Passenger 2 has requested ride 2 at 13.683000.
-Car 0 has accepted Passenger 2 at 13.689000.
-Car 0 is now accepting passengers at 13.684000.
-Car 0 has returned Passenger 2 at 13.691000.
-Passenger 3 has requested ride 2 at 13.695000.
-Car 0 is now accepting passengers at 13.695000.
-Car 0 has accepted Passenger 3 at 13.697000.
-Passenger 2 has requested ride 3 at 13.698000.
-Car 1 has accepted Passenger 2 at 13.704000.
-Car 1 has returned Passenger 2 at 13.706000.
-Car 1 is now accepting passengers at 13.708000.
-Passenger 2 has requested ride 4 at 13.711000.
-Car 0 has returned Passenger 3 at 13.699000.
-Passenger 4 has requested ride 0 at 13.717000.
-Car 0 is now accepting passengers at 13.721000.
-Car 0 has accepted Passenger 4 at 13.722000.
-Car 1 has accepted Passenger 2 at 13.713000.
-Car 1 has returned Passenger 2 at 13.731000.
-Car 0 has returned Passenger 4 at 13.733000.
-Passenger 3 has requested ride 3 at 13.724000.
-Car 0 is now accepting passengers at 13.738000.
-Car 0 has accepted Passenger 3 at 13.741000.
-Passenger 4 has requested ride 1 at 13.743000.
-Car 1 has accepted Passenger 4 at 13.749000.
-Passenger 5 enters the museum at 13.750000.
-Car 0 has returned Passenger 3 at 13.743000.
-Car 0 is now accepting passengers at 13.764000.
-Passenger 3 has requested ride 4 at 13.766000.
-Passenger 6 has requested ride 0 at 13.814000.
-Car 1 has returned Passenger 4 at 13.758000.
-Car 2 has accepted Passenger 6 at 13.823000.
-Car 1 is now accepting passengers at 13.827000.
-Passenger 5 has requested ride 0 at 13.770000.
-Car 1 is now accepting passengers at 13.733000.
-Passenger 4 has requested ride 2 at 13.836000.
-Passenger 2 exits the museum at 13.843000.
-Car 2 has returned Passenger 6 at 13.829000.
-Car 3 has accepted Passenger 4 at 13.849000.
-Car 2 is now accepting passengers at 13.850000.
-Car 3 has returned Passenger 4 at 13.851000.
-Passenger 6 has requested ride 1 at 13.853000.
-Car 0 has accepted Passenger 3 at 13.817000.
-Car 2 has accepted Passenger 6 at 13.859000.
-Car 0 has returned Passenger 3 at 13.862000.
-Car 2 has returned Passenger 6 at 13.863000.
-Car 2 is now accepting passengers at 13.865000.
-Passenger 6 has requested ride 2 at 13.868000.
-Car 1 has accepted Passenger 5 at 13.842000.
-Car 0 is now accepting passengers at 13.868000.
-Passenger 6 enters the museum at 13.797000.
-Car 1 has returned Passenger 5 at 13.873000.
-Car 1 is now accepting passengers at 13.875000.
-Passenger 3 exits the museum at 13.877000.
-Passenger 5 has requested ride 1 at 13.878000.
-Car 1 has accepted Passenger 5 at 13.881000.
-Car 1 has returned Passenger 5 at 13.883000.
-Car 3 is now accepting passengers at 13.853000.
-Passenger 4 has requested ride 3 at 13.894000.
-Car 1 has accepted Passenger 4 at 13.896000.
-Car 1 has returned Passenger 4 at 13.898000.
-Car 1 is now accepting passengers at 13.900000.
-Passenger 4 has requested ride 4 at 13.902000.
-Car 1 is now accepting passengers at 13.886000.
-Car 1 has accepted Passenger 4 at 13.906000.
-Car 0 has accepted Passenger 6 at 13.871000.
-Car 0 has returned Passenger 6 at 13.937000.
-Passenger 5 has requested ride 2 at 13.910000.
-Car 0 is now accepting passengers at 13.942000.
-Passenger 6 has requested ride 3 at 13.945000.
-Car 2 has accepted Passenger 6 at 13.948000.
-Car 0 has accepted Passenger 5 at 13.948000.
-Car 2 has returned Passenger 6 at 13.952000.
-Car 2 is now accepting passengers at 13.954000.
-Passenger 7 enters the museum at 13.925000.
-Passenger 7 has requested ride 0 at 13.951000.
-Car 2 has accepted Passenger 7 at 13.998000.
-Car 0 has returned Passenger 5 at 13.959000.
-Car 2 has returned Passenger 7 at 14.005000.
-Car 2 is now accepting passengers at 14.007000.
-Car 0 is now accepting passengers at 14.010000.
-Passenger 6 has requested ride 4 at 13.956000.
-Car 0 has accepted Passenger 6 at 14.049000.
-Passenger 5 has requested ride 3 at 14.017000.
-Car 1 has returned Passenger 4 at 13.910000.
-Passenger 8 has requested ride 0 at 14.061000.
-Passenger 8 enters the museum at 14.038000.
-Car 1 has accepted Passenger 8 at 14.070000.
-Car 0 has returned Passenger 6 at 14.054000.
-Car 0 is now accepting passengers at 14.075000.
-Car 2 has accepted Passenger 5 at 14.061000.
-Car 2 has returned Passenger 5 at 14.085000.
-Passenger 7 has requested ride 1 at 14.010000.
-Car 2 is now accepting passengers at 14.094000.
-Car 0 has accepted Passenger 7 at 14.094000.
-Passenger 5 has requested ride 4 at 14.098000.
-Passenger 6 exits the museum at 14.077000.
-Car 1 is now accepting passengers at 14.064000.
-Car 1 has returned Passenger 8 at 14.077000.
-Car 2 has accepted Passenger 5 at 14.100000.
-Car 1 is now accepting passengers at 14.152000.
-Passenger 8 has requested ride 1 at 14.155000.
-Car 1 has accepted Passenger 8 at 14.157000.
-Car 2 has returned Passenger 5 at 14.158000.
-Car 1 has returned Passenger 8 at 14.159000.
-Car 2 is now accepting passengers at 14.160000.
-Car 1 is now accepting passengers at 14.161000.
-Passenger 5 exits the museum at 14.162000.
-Passenger 8 has requested ride 2 at 14.164000.
-Car 1 has accepted Passenger 8 at 14.166000.
-Passenger 9 enters the museum at 14.137000.
-Passenger 4 exits the museum at 14.170000.
-Car 1 has returned Passenger 8 at 14.169000.
-Car 1 is now accepting passengers at 14.197000.
-Passenger 8 has requested ride 3 at 14.200000.
-Car 1 has accepted Passenger 8 at 14.203000.
-Passenger 9 has requested ride 0 at 14.174000.
-Car 2 has accepted Passenger 9 at 14.230000.
-Car 2 has returned Passenger 9 at 14.269000.
-Car 2 is now accepting passengers at 14.273000.
-Passenger 9 has requested ride 1 at 14.278000.
-Car 2 has accepted Passenger 9 at 14.283000.
-Car 1 has returned Passenger 8 at 14.205000.
-Passenger 10 enters the museum at 14.239000.
-Car 0 has returned Passenger 7 at 14.104000.
-Passenger 10 has requested ride 0 at 14.263000.
-Car 0 is now accepting passengers at 14.306000.
-Passenger 7 has requested ride 2 at 14.310000.
-Car 0 has accepted Passenger 10 at 14.311000.
-Car 1 has accepted Passenger 7 at 14.312000.
-Car 0 has returned Passenger 10 at 14.313000.
-Car 2 has returned Passenger 9 at 14.289000.
-Car 1 has returned Passenger 7 at 14.314000.
-Car 0 is now accepting passengers at 14.317000.
-Car 1 is now accepting passengers at 14.318000.
-Car 2 is now accepting passengers at 14.317000.
-Passenger 10 has requested ride 1 at 14.321000.
-Passenger 7 has requested ride 3 at 14.321000.
-Car 1 is now accepting passengers at 14.290000.
-Passenger 9 has requested ride 2 at 14.327000.
-Passenger 8 has requested ride 4 at 14.363000.
-Car 2 has accepted Passenger 9 at 14.368000.
-Car 3 has accepted Passenger 8 at 14.374000.
-Car 3 has returned Passenger 8 at 14.376000.
-Car 1 has accepted Passenger 7 at 14.328000.
-Car 0 has accepted Passenger 10 at 14.327000.
-Car 2 has returned Passenger 9 at 14.376000.
-Car 0 has returned Passenger 10 at 14.417000.
-Car 2 is now accepting passengers at 14.419000.
-Car 0 is now accepting passengers at 14.422000.
-Passenger 10 has requested ride 2 at 14.425000.
-Car 3 is now accepting passengers at 14.381000.
-Passenger 8 exits the museum at 14.436000.
-Car 0 has accepted Passenger 10 at 14.428000.
-Car 0 has returned Passenger 10 at 14.449000.
-Car 1 has returned Passenger 7 at 14.404000.
-Passenger 11 has requested ride 0 at 14.380000.
-Car 1 is now accepting passengers at 14.463000.
-Passenger 7 has requested ride 4 at 14.466000.
-Car 0 is now accepting passengers at 14.455000.
-Car 0 has accepted Passenger 7 at 14.468000.
-Car 1 has accepted Passenger 11 at 14.469000.
-Car 0 has returned Passenger 7 at 14.470000.
-Car 1 has returned Passenger 11 at 14.473000.
-Passenger 11 enters the museum at 14.363000.
-Car 0 is now accepting passengers at 14.476000.
-Passenger 9 has requested ride 3 at 14.429000.
-Passenger 7 exits the museum at 14.478000.
-Car 0 has accepted Passenger 9 at 14.479000.
-Car 0 has returned Passenger 9 at 14.481000.
-Car 0 is now accepting passengers at 14.483000.
-Passenger 9 has requested ride 4 at 14.486000.
-Car 1 is now accepting passengers at 14.475000.
-Car 0 has accepted Passenger 9 at 14.488000.
-Passenger 11 has requested ride 1 at 14.492000.
-Car 1 has accepted Passenger 11 at 14.499000.
-Car 0 has returned Passenger 9 at 14.493000.
-Car 1 has returned Passenger 11 at 14.508000.
-Car 0 is now accepting passengers at 14.509000.
-Car 1 is now accepting passengers at 14.510000.
-Passenger 11 has requested ride 2 at 14.518000.
-Car 0 has accepted Passenger 11 at 14.519000.
-Passenger 10 has requested ride 3 at 14.470000.
-Car 1 has accepted Passenger 10 at 14.529000.
-Car 1 has returned Passenger 10 at 14.533000.
-Passenger 12 enters the museum at 14.539000.
-Car 1 is now accepting passengers at 14.539000.
-Passenger 10 has requested ride 4 at 14.560000.
-Car 1 has accepted Passenger 10 at 14.562000.
-Car 1 has returned Passenger 10 at 14.564000.
-Car 1 is now accepting passengers at 14.566000.
-Passenger 10 exits the museum at 14.568000.
-Car 0 has returned Passenger 11 at 14.521000.
-Passenger 9 exits the museum at 14.511000.
-Car 0 is now accepting passengers at 14.579000.
-Passenger 11 has requested ride 3 at 14.585000.
-Car 0 has accepted Passenger 11 at 14.587000.
-Car 0 has returned Passenger 11 at 14.589000.
-Car 0 is now accepting passengers at 14.591000.
-Passenger 11 has requested ride 4 at 14.593000.
-Car 0 has accepted Passenger 11 at 14.595000.
-Passenger 12 has requested ride 0 at 14.571000.
-Car 1 has accepted Passenger 12 at 14.622000.
-Car 0 has returned Passenger 11 at 14.597000.
-Passenger 13 enters the museum at 14.612000.
-Car 0 is now accepting passengers at 14.637000.
-Passenger 11 exits the museum at 14.669000.
-Car 1 has returned Passenger 12 at 14.628000.
-Car 1 is now accepting passengers at 14.682000.
-Passenger 12 has requested ride 1 at 14.685000.
-Car 0 has accepted Passenger 12 at 14.687000.
-Car 0 has returned Passenger 12 at 14.689000.
-Car 0 is now accepting passengers at 14.691000.
-Passenger 13 has requested ride 0 at 14.638000.
-Passenger 14 enters the museum at 14.699000.
-Car 0 has accepted Passenger 13 at 14.701000.
-Passenger 12 has requested ride 2 at 14.694000.
-Car 1 has accepted Passenger 12 at 14.708000.
-Car 1 has returned Passenger 12 at 14.710000.
-Car 1 is now accepting passengers at 14.712000.
-Passenger 12 has requested ride 3 at 14.715000.
-Car 1 has accepted Passenger 12 at 14.717000.
-Passenger 14 has requested ride 0 at 14.718000.
-Car 2 has accepted Passenger 14 at 14.725000.
-Car 2 has returned Passenger 14 at 14.730000.
-Car 0 has returned Passenger 13 at 14.704000.
-Passenger 15 enters the museum at 14.737000.
-Car 0 is now accepting passengers at 14.742000.
-Passenger 13 has requested ride 1 at 14.746000.
-Car 1 has returned Passenger 12 at 14.719000.
-Car 0 has accepted Passenger 13 at 14.748000.
-Car 1 is now accepting passengers at 14.751000.
-Passenger 12 has requested ride 4 at 14.754000.
-Car 0 has returned Passenger 13 at 14.754000.
-Car 2 is now accepting passengers at 14.732000.
-Car 0 is now accepting passengers at 14.760000.
-Passenger 13 has requested ride 2 at 14.763000.
-Car 0 has accepted Passenger 13 at 14.765000.
-Passenger 14 has requested ride 1 at 14.766000.
-Car 2 has accepted Passenger 14 at 14.768000.
-Car 0 has returned Passenger 13 at 14.769000.
-Car 0 is now accepting passengers at 14.777000.
-Passenger 13 has requested ride 3 at 14.780000.
-Car 0 has accepted Passenger 13 at 14.782000.
-Car 0 has returned Passenger 13 at 14.784000.
-Car 0 is now accepting passengers at 14.791000.
-Passenger 16 enters the museum at 14.792000.
-Passenger 13 has requested ride 4 at 14.794000.
-Car 0 has accepted Passenger 13 at 14.799000.
-Car 2 has returned Passenger 14 at 14.771000.
-Car 2 is now accepting passengers at 14.807000.
-Passenger 14 has requested ride 2 at 14.810000.
-Car 2 has accepted Passenger 14 at 14.812000.
-Car 2 has returned Passenger 14 at 14.814000.
-Car 2 is now accepting passengers at 14.816000.
-Passenger 14 has requested ride 3 at 14.818000.
-Car 2 has accepted Passenger 14 at 14.820000.
-Car 1 has accepted Passenger 12 at 14.757000.
-Car 1 has returned Passenger 12 at 14.837000.
-Passenger 17 enters the museum at 14.840000.
-Car 1 is now accepting passengers at 14.842000.
-Passenger 12 exits the museum at 14.844000.
-Car 2 has returned Passenger 14 at 14.825000.
-Car 0 has returned Passenger 13 at 14.801000.
-Car 0 is now accepting passengers at 14.858000.
-Passenger 13 exits the museum at 14.861000.
-Passenger 15 has requested ride 0 at 14.876000.
-Car 0 has accepted Passenger 15 at 14.882000.
-Car 0 has returned Passenger 15 at 14.884000.
-Car 0 is now accepting passengers at 14.886000.
-Passenger 15 has requested ride 1 at 14.889000.
-Car 0 has accepted Passenger 15 at 14.891000.
-Car 0 has returned Passenger 15 at 14.893000.
-Car 0 is now accepting passengers at 14.895000.
-Passenger 15 has requested ride 2 at 14.897000.
-Car 0 has accepted Passenger 15 at 14.899000.
-Car 0 has returned Passenger 15 at 14.901000.
-Car 0 is now accepting passengers at 14.903000.
-Passenger 18 has requested ride 0 at 14.905000.
-Car 0 has accepted Passenger 18 at 14.912000.
-Car 0 has returned Passenger 18 at 14.918000.
-Car 2 is now accepting passengers at 14.863000.
-Passenger 14 has requested ride 4 at 14.930000.
-Car 0 has accepted Passenger 14 at 14.935000.
-Car 0 is now accepting passengers at 14.922000.
-Car 0 has returned Passenger 14 at 14.941000.
-Car 0 is now accepting passengers at 14.943000.
-Passenger 17 has requested ride 0 at 14.944000.
-Passenger 15 has requested ride 3 at 14.906000.
-Car 1 has accepted Passenger 15 at 14.973000.
-Passenger 14 exits the museum at 14.945000.
-Car 0 has accepted Passenger 17 at 14.952000.
-Passenger 16 has requested ride 0 at 14.990000.
-Car 2 has accepted Passenger 16 at 15.026000.
-Car 2 has returned Passenger 16 at 15.030000.
-Passenger 18 has requested ride 1 at 14.944000.
-Car 2 is now accepting passengers at 15.035000.
-Car 0 has returned Passenger 17 at 14.996000.
-Car 2 has accepted Passenger 18 at 15.040000.
-Passenger 18 enters the museum at 14.996000.
-Car 0 is now accepting passengers at 15.046000.
-Passenger 16 has requested ride 1 at 15.038000.
-Passenger 17 has requested ride 1 at 15.055000.
-Car 0 has accepted Passenger 16 at 15.057000.
-Car 0 has returned Passenger 16 at 15.059000.
-Car 0 is now accepting passengers at 15.060000.
-Car 0 has accepted Passenger 17 at 15.062000.
-Passenger 16 has requested ride 2 at 15.063000.
-Car 0 has returned Passenger 17 at 15.064000.
-Car 3 has accepted Passenger 16 at 15.065000.
-Car 0 is now accepting passengers at 15.066000.
-Car 3 has returned Passenger 16 at 15.067000.
-Car 3 is now accepting passengers at 15.069000.
-Passenger 16 has requested ride 3 at 15.072000.
-Car 0 has accepted Passenger 16 at 15.074000.
-Car 1 has returned Passenger 15 at 14.979000.
-Car 1 is now accepting passengers at 15.078000.
-Car 0 has returned Passenger 16 at 15.080000.
-Passenger 15 has requested ride 4 at 15.082000.
-Car 0 has accepted Passenger 15 at 15.088000.
-Passenger 17 has requested ride 2 at 15.074000.
-Car 1 has accepted Passenger 17 at 15.097000.
-Car 1 has returned Passenger 17 at 15.099000.
-Car 1 is now accepting passengers at 15.101000.
-Car 2 has returned Passenger 18 at 15.044000.
-Passenger 17 has requested ride 3 at 15.104000.
-Car 0 has returned Passenger 15 at 15.090000.
-Car 0 is now accepting passengers at 15.112000.
-Passenger 15 exits the museum at 15.116000.
-Car 2 is now accepting passengers at 15.105000.
-Car 1 has accepted Passenger 17 at 15.106000.
-Car 1 has returned Passenger 17 at 15.127000.
-Car 1 is now accepting passengers at 15.133000.
-Passenger 17 has requested ride 4 at 15.136000.
-Car 0 has accepted Passenger 17 at 15.138000.
-Passenger 18 has requested ride 2 at 15.120000.
-Car 0 is now accepting passengers at 15.082000.
-Passenger 19 has requested ride 0 at 15.150000.
-Car 2 has accepted Passenger 19 at 15.153000.
-Car 2 has returned Passenger 19 at 15.155000.
-Car 2 is now accepting passengers at 15.157000.
-Passenger 16 has requested ride 4 at 15.157000.
-Passenger 19 has requested ride 1 at 15.162000.
-Car 2 has accepted Passenger 19 at 15.164000.
-Car 2 has returned Passenger 19 at 15.166000.
-Car 3 has accepted Passenger 16 at 15.167000.
-Car 2 is now accepting passengers at 15.168000.
-Car 3 has returned Passenger 16 at 15.169000.
-Passenger 19 has requested ride 2 at 15.171000.
-Car 3 is now accepting passengers at 15.171000.
-Car 2 has accepted Passenger 19 at 15.174000.
-Passenger 16 exits the museum at 15.179000.
-Car 1 has accepted Passenger 18 at 15.148000.
-Car 1 has returned Passenger 18 at 15.224000.
-Car 1 is now accepting passengers at 15.228000.
-Car 2 has returned Passenger 19 at 15.184000.
-Car 0 has returned Passenger 17 at 15.142000.
-Passenger 19 enters the museum at 15.121000.
-Passenger 18 has requested ride 3 at 15.234000.
-Car 2 is now accepting passengers at 15.241000.
-Car 0 has accepted Passenger 18 at 15.252000.
-Passenger 19 has requested ride 3 at 15.253000.
-Car 1 has accepted Passenger 19 at 15.255000.
-Car 1 has returned Passenger 19 at 15.261000.
-Car 0 has returned Passenger 18 at 15.256000.
-Car 1 is now accepting passengers at 15.264000.
-Passenger 19 has requested ride 4 at 15.267000.
-Car 1 has accepted Passenger 19 at 15.269000.
-Car 0 is now accepting passengers at 15.241000.
-Passenger 17 exits the museum at 15.281000.
-Car 1 has returned Passenger 19 at 15.274000.
-Car 1 is now accepting passengers at 15.287000.
-Passenger 19 exits the museum at 15.289000.
-Car 0 is now accepting passengers at 15.269000.
-Passenger 18 has requested ride 4 at 15.304000.
-Car 0 has accepted Passenger 18 at 15.306000.
-Passenger 20 enters the museum at 15.308000.
-Car 0 has returned Passenger 18 at 15.308000.
-Car 0 is now accepting passengers at 15.318000.
-Passenger 18 exits the museum at 15.319000.
-Passenger 20 has requested ride 0 at 15.347000.
-Car 0 has accepted Passenger 20 at 15.380000.
-Car 0 has returned Passenger 20 at 15.383000.
-Passenger 21 has requested ride 0 at 15.373000.
-Car 0 is now accepting passengers at 15.387000.
-Passenger 21 enters the museum at 15.383000.
-Passenger 20 has requested ride 1 at 15.390000.
-Car 1 has accepted Passenger 20 at 15.402000.
-Car 1 has returned Passenger 20 at 15.404000.
-Car 1 is now accepting passengers at 15.406000.
-Passenger 20 has requested ride 2 at 15.409000.
-Car 1 has accepted Passenger 20 at 15.411000.
-Car 1 has returned Passenger 20 at 15.412000.
-Car 0 has accepted Passenger 21 at 15.390000.
-Car 0 has returned Passenger 21 at 15.423000.
-Car 0 is now accepting passengers at 15.425000.
-Car 1 is now accepting passengers at 15.416000.
-Passenger 21 has requested ride 1 at 15.437000.
-Car 0 has accepted Passenger 21 at 15.439000.
-Car 0 has returned Passenger 21 at 15.441000.
-Car 0 is now accepting passengers at 15.444000.
-Passenger 20 has requested ride 3 at 15.444000.
-Passenger 21 has requested ride 2 at 15.447000.
-Car 0 has accepted Passenger 20 at 15.448000.
-Car 1 has accepted Passenger 21 at 15.450000.
-Car 1 has returned Passenger 21 at 15.455000.
-Car 1 is now accepting passengers at 15.457000.
-Passenger 21 has requested ride 3 at 15.460000.
-Car 1 has accepted Passenger 21 at 15.466000.
-Passenger 22 enters the museum at 15.460000.
-Passenger 22 has requested ride 0 at 15.475000.
-Car 1 has returned Passenger 21 at 15.471000.
-Car 0 has returned Passenger 20 at 15.450000.
-Car 0 is now accepting passengers at 15.488000.
-Car 1 is now accepting passengers at 15.489000.
-Passenger 20 has requested ride 4 at 15.491000.
-Passenger 21 has requested ride 4 at 15.492000.
-Car 2 has accepted Passenger 22 at 15.481000.
-Car 2 has returned Passenger 22 at 15.502000.
-Car 2 is now accepting passengers at 15.508000.
-Car 1 has accepted Passenger 20 at 15.495000.
-Car 1 has returned Passenger 20 at 15.511000.
-Car 1 is now accepting passengers at 15.513000.
-Passenger 22 has requested ride 1 at 15.514000.
-Passenger 20 exits the museum at 15.515000.
-Car 1 has accepted Passenger 22 at 15.516000.
-Car 1 has returned Passenger 22 at 15.518000.
-Car 1 is now accepting passengers at 15.520000.
-Passenger 22 has requested ride 2 at 15.523000.
-Car 0 has accepted Passenger 21 at 15.495000.
-Car 0 has returned Passenger 21 at 15.553000.
-Car 1 has accepted Passenger 22 at 15.528000.
-Car 0 is now accepting passengers at 15.558000.
-Passenger 21 exits the museum at 15.561000.
-Passenger 23 enters the museum at 15.539000.
-Passenger 23 has requested ride 0 at 15.566000.
-Car 0 has accepted Passenger 23 at 15.574000.
-Car 0 has returned Passenger 23 at 15.579000.
-Car 1 has returned Passenger 22 at 15.561000.
-Car 0 is now accepting passengers at 15.581000.
-Car 1 is now accepting passengers at 15.582000.
-Passenger 23 has requested ride 1 at 15.584000.
-Passenger 22 has requested ride 3 at 15.585000.
-Car 1 has accepted Passenger 22 at 15.593000.
-Car 1 has returned Passenger 22 at 15.595000.
-Car 0 has accepted Passenger 23 at 15.586000.
-Car 1 is now accepting passengers at 15.597000.
-Car 0 has returned Passenger 23 at 15.598000.
-Passenger 22 has requested ride 4 at 15.600000.
-Car 0 has accepted Passenger 22 at 15.605000.
-Car 0 has returned Passenger 22 at 15.608000.
-Car 0 is now accepting passengers at 15.610000.
-Car 0 is now accepting passengers at 15.600000.
-Passenger 22 exits the museum at 15.612000.
-Passenger 23 has requested ride 2 at 15.622000.
-Car 0 has accepted Passenger 23 at 15.624000.
-Car 0 has returned Passenger 23 at 15.626000.
-Car 0 is now accepting passengers at 15.628000.
-Passenger 23 has requested ride 3 at 15.631000.
-Car 0 has accepted Passenger 23 at 15.633000.
-Car 0 has returned Passenger 23 at 15.635000.
-Car 0 is now accepting passengers at 15.637000.
-Passenger 23 has requested ride 4 at 15.639000.
-Car 0 has accepted Passenger 23 at 15.645000.
-Car 0 has returned Passenger 23 at 15.646000.
-Car 0 is now accepting passengers at 15.648000.
-Passenger 24 enters the museum at 15.639000.
-Passenger 24 has requested ride 0 at 15.663000.
-Car 0 has accepted Passenger 24 at 15.667000.
-Car 0 has returned Passenger 24 at 15.695000.
-Car 0 is now accepting passengers at 15.697000.
-Passenger 24 has requested ride 1 at 15.700000.
-Car 0 has accepted Passenger 24 at 15.702000.
-Car 0 has returned Passenger 24 at 15.704000.
-Passenger 23 exits the museum at 15.650000.
-Passenger 25 enters the museum at 15.714000.
-Car 0 is now accepting passengers at 15.705000.
-Passenger 24 has requested ride 2 at 15.730000.
-Car 0 has accepted Passenger 24 at 15.732000.
-Car 0 has returned Passenger 24 at 15.734000.
-Car 0 is now accepting passengers at 15.736000.
-Passenger 25 has requested ride 0 at 15.737000.
-Car 0 has accepted Passenger 25 at 15.745000.
-Car 0 has returned Passenger 25 at 15.747000.
-Car 0 is now accepting passengers at 15.750000.
-Passenger 24 has requested ride 3 at 15.739000.
-Car 0 has accepted Passenger 24 at 15.759000.
-Passenger 25 has requested ride 1 at 15.754000.
-Car 1 has accepted Passenger 25 at 15.768000.
-Passenger 26 enters the museum at 15.762000.
-Car 1 has returned Passenger 25 at 15.773000.
-Car 1 is now accepting passengers at 15.775000.
-Car 0 has returned Passenger 24 at 15.763000.
-Passenger 25 has requested ride 2 at 15.778000.
-Passenger 26 has requested ride 0 at 15.785000.
-Car 0 has accepted Passenger 25 at 15.788000.
-Car 0 is now accepting passengers at 15.785000.
-Car 1 has accepted Passenger 26 at 15.790000.
-Car 1 has returned Passenger 26 at 15.793000.
-Car 1 is now accepting passengers at 15.795000.
-Passenger 24 has requested ride 4 at 15.796000.
-Passenger 26 has requested ride 1 at 15.798000.
-Car 1 has accepted Passenger 26 at 15.799000.
-Car 1 has returned Passenger 26 at 15.801000.
-Car 1 is now accepting passengers at 15.808000.
-Passenger 26 has requested ride 2 at 15.811000.
-Car 1 has accepted Passenger 26 at 15.813000.
-Car 1 has returned Passenger 26 at 15.815000.
-Car 2 has accepted Passenger 24 at 15.802000.
-Car 1 is now accepting passengers at 15.817000.
-Car 2 has returned Passenger 24 at 15.820000.
-Passenger 27 enters the museum at 15.821000.
-Car 0 has returned Passenger 25 at 15.790000.
-Car 0 is now accepting passengers at 15.837000.
-Passenger 26 has requested ride 3 at 15.821000.
-Passenger 27 has requested ride 0 at 15.843000.
-Car 0 has accepted Passenger 27 at 15.847000.
-Car 0 has returned Passenger 27 at 15.850000.
-Car 0 is now accepting passengers at 15.852000.
-Passenger 27 has requested ride 1 at 15.854000.
-Car 0 has accepted Passenger 27 at 15.856000.
-Car 0 has returned Passenger 27 at 15.858000.
-Car 0 is now accepting passengers at 15.860000.
-Car 2 is now accepting passengers at 15.822000.
-Passenger 27 has requested ride 2 at 15.863000.
-Passenger 24 exits the museum at 15.864000.
-Car 0 has accepted Passenger 27 at 15.865000.
-Car 0 has returned Passenger 27 at 15.867000.
-Car 0 is now accepting passengers at 15.869000.
-Car 1 has accepted Passenger 26 at 15.870000.
-Passenger 27 has requested ride 3 at 15.875000.
-Passenger 25 has requested ride 3 at 15.840000.
-Passenger 28 enters the museum at 15.869000.
-Car 2 has accepted Passenger 25 at 15.885000.
-Passenger 28 has requested ride 0 at 15.886000.
-Car 2 has returned Passenger 25 at 15.888000.
-Car 3 has accepted Passenger 28 at 15.890000.
-Car 2 is now accepting passengers at 15.891000.
-Car 3 has returned Passenger 28 at 15.894000.
-Passenger 25 has requested ride 4 at 15.896000.
-Car 2 has accepted Passenger 25 at 15.899000.
-Car 3 is now accepting passengers at 15.896000.
-Car 2 has returned Passenger 25 at 15.901000.
-Car 1 has returned Passenger 26 at 15.879000.
-Passenger 28 has requested ride 1 at 15.902000.
-Car 2 has accepted Passenger 28 at 15.907000.
-Car 0 has accepted Passenger 27 at 15.878000.
-Car 2 is now accepting passengers at 15.903000.
-Car 0 has returned Passenger 27 at 15.926000.
-Car 0 is now accepting passengers at 15.929000.
-Passenger 29 enters the museum at 15.930000.
-Passenger 27 has requested ride 4 at 15.932000.
-Car 0 has accepted Passenger 27 at 15.934000.
-Car 1 is now accepting passengers at 15.915000.
-Car 2 has returned Passenger 28 at 15.915000.
-Car 0 has returned Passenger 27 at 15.940000.
-Car 0 is now accepting passengers at 15.989000.
-Passenger 27 exits the museum at 15.993000.
-Passenger 30 has requested ride 0 at 15.995000.
-Passenger 29 has requested ride 0 at 15.961000.
-Car 1 has accepted Passenger 29 at 16.011000.
-Passenger 30 enters the museum at 15.981000.
-Car 1 has returned Passenger 29 at 16.019000.
-Passenger 25 exits the museum at 15.931000.
-Car 1 is now accepting passengers at 16.026000.
-Passenger 29 has requested ride 1 at 16.029000.
-Car 1 has accepted Passenger 29 at 16.031000.
-Car 1 has returned Passenger 29 at 16.033000.
-Car 2 is now accepting passengers at 15.969000.
-Passenger 26 has requested ride 4 at 15.947000.
-Car 1 has accepted Passenger 26 at 16.082000.
-Car 1 has returned Passenger 26 at 16.086000.
-Car 1 is now accepting passengers at 16.090000.
-Car 0 has accepted Passenger 30 at 16.002000.
-Passenger 28 has requested ride 2 at 16.047000.
-Passenger 31 has requested ride 0 at 16.106000.
-Car 1 has accepted Passenger 28 at 16.112000.
-Car 2 has accepted Passenger 31 at 16.116000.
-Car 1 has returned Passenger 28 at 16.120000.
-Car 0 has returned Passenger 30 at 16.099000.
-Car 1 is now accepting passengers at 16.126000.
-Passenger 26 exits the museum at 16.099000.
-Passenger 28 has requested ride 3 at 16.130000.
-Passenger 31 enters the museum at 16.073000.
-Car 2 has returned Passenger 31 at 16.124000.
-Car 2 is now accepting passengers at 16.155000.
-Car 0 is now accepting passengers at 16.129000.
-Passenger 31 has requested ride 1 at 16.158000.
-Passenger 30 has requested ride 1 at 16.162000.
-Car 2 has accepted Passenger 30 at 16.169000.
-Car 2 has returned Passenger 30 at 16.170000.
-Car 2 is now accepting passengers at 16.173000.
-Car 1 is now accepting passengers at 16.035000.
-Passenger 30 has requested ride 2 at 16.180000.
-Passenger 29 has requested ride 2 at 16.183000.
-Car 2 has accepted Passenger 29 at 16.187000.
-Car 3 has accepted Passenger 30 at 16.189000.
-Car 0 has accepted Passenger 28 at 16.139000.
-Car 1 has accepted Passenger 31 at 16.162000.
-Car 1 has returned Passenger 31 at 16.208000.
-Car 0 has returned Passenger 28 at 16.208000.
-Car 1 is now accepting passengers at 16.211000.
-Car 2 has returned Passenger 29 at 16.213000.
-Passenger 32 has requested ride 0 at 16.249000.
-Passenger 32 enters the museum at 16.211000.
-Car 3 has returned Passenger 30 at 16.201000.
-Car 2 is now accepting passengers at 16.250000.
-Passenger 29 has requested ride 3 at 16.276000.
-Car 1 has accepted Passenger 29 at 16.280000.
-Car 1 has returned Passenger 29 at 16.284000.
-Passenger 31 has requested ride 2 at 16.214000.
-Car 2 has accepted Passenger 31 at 16.290000.
-Car 0 has accepted Passenger 32 at 16.256000.
-Car 3 is now accepting passengers at 16.271000.
-Car 0 has returned Passenger 32 at 16.302000.
-Passenger 30 has requested ride 3 at 16.310000.
-Car 1 has accepted Passenger 30 at 16.312000.
-Car 0 is now accepting passengers at 16.313000.
-Car 1 has returned Passenger 30 at 16.314000.
-Passenger 32 has requested ride 1 at 16.316000.
-Car 0 has accepted Passenger 32 at 16.318000.
-Car 0 has returned Passenger 32 at 16.320000.
-Car 1 is now accepting passengers at 16.293000.
-Car 2 has returned Passenger 31 at 16.294000.
-Car 0 is now accepting passengers at 16.330000.
-Passenger 29 has requested ride 4 at 16.332000.
-Passenger 32 has requested ride 2 at 16.333000.
-Car 0 is now accepting passengers at 16.218000.
-Passenger 28 has requested ride 4 at 16.362000.
-Car 0 has accepted Passenger 32 at 16.343000.
-Passenger 33 has requested ride 0 at 16.368000.
-Car 0 has returned Passenger 32 at 16.370000.
-Car 1 is now accepting passengers at 16.320000.
-Passenger 30 has requested ride 4 at 16.376000.
-Car 0 is now accepting passengers at 16.379000.
-Car 1 has accepted Passenger 29 at 16.343000.
-Passenger 33 enters the museum at 16.331000.
-Car 3 has accepted Passenger 33 at 16.377000.
-Car 3 has returned Passenger 33 at 16.405000.
-Car 3 is now accepting passengers at 16.410000.
-Car 2 has accepted Passenger 28 at 16.368000.
-Car 2 is now accepting passengers at 16.332000.
-Car 1 has returned Passenger 29 at 16.417000.
-Car 2 has returned Passenger 28 at 16.422000.
-Car 2 is now accepting passengers at 16.450000.
-Passenger 28 exits the museum at 16.455000.
-Car 0 has accepted Passenger 30 at 16.382000.
-Car 0 has returned Passenger 30 at 16.466000.
-Passenger 34 enters the museum at 16.469000.
-Passenger 32 has requested ride 3 at 16.382000.
-Passenger 31 has requested ride 3 at 16.419000.
-Car 1 is now accepting passengers at 16.426000.
-Car 1 has accepted Passenger 31 at 16.492000.
-Passenger 33 has requested ride 1 at 16.412000.
-Car 0 is now accepting passengers at 16.471000.
-Passenger 30 exits the museum at 16.505000.
-Passenger 29 exits the museum at 16.500000.
-Car 1 has returned Passenger 31 at 16.527000.
-Passenger 34 has requested ride 0 at 16.489000.
-Car 3 has accepted Passenger 34 at 16.532000.
-Car 1 is now accepting passengers at 16.532000.
-Car 3 has returned Passenger 34 at 16.536000.
-Passenger 31 has requested ride 4 at 16.538000.
-Car 0 has accepted Passenger 32 at 16.490000.
-Car 0 has returned Passenger 32 at 16.543000.
-Car 1 has accepted Passenger 31 at 16.544000.
-Car 0 is now accepting passengers at 16.545000.
-Car 1 has returned Passenger 31 at 16.546000.
-Car 2 has accepted Passenger 33 at 16.527000.
-Passenger 32 has requested ride 4 at 16.551000.
-Passenger 35 enters the museum at 16.575000.
-Car 3 is now accepting passengers at 16.539000.
-Passenger 34 has requested ride 1 at 16.581000.
-Car 1 has accepted Passenger 34 at 16.583000.
-Car 1 has returned Passenger 34 at 16.588000.
-Car 1 is now accepting passengers at 16.594000.
-Car 2 has returned Passenger 33 at 16.583000.
-Passenger 34 has requested ride 2 at 16.597000.
-Car 2 is now accepting passengers at 16.598000.
-Passenger 33 has requested ride 2 at 16.608000.
-Car 2 has accepted Passenger 33 at 16.610000.
-Car 2 has returned Passenger 33 at 16.612000.
-Car 2 is now accepting passengers at 16.614000.
-Passenger 35 has requested ride 0 at 16.614000.
-Car 0 has accepted Passenger 32 at 16.576000.
-Car 2 has accepted Passenger 35 at 16.625000.
-Car 0 has returned Passenger 32 at 16.628000.
-Car 0 is now accepting passengers at 16.630000.
-Passenger 32 exits the museum at 16.633000.
-Passenger 33 has requested ride 3 at 16.617000.
-Car 2 has returned Passenger 35 at 16.637000.
-Car 0 has accepted Passenger 33 at 16.637000.
-Car 0 has returned Passenger 33 at 16.640000.
-Car 1 has accepted Passenger 34 at 16.599000.
-Car 2 is now accepting passengers at 16.641000.
-Car 0 is now accepting passengers at 16.646000.
-Passenger 33 has requested ride 4 at 16.649000.
-Car 0 has accepted Passenger 33 at 16.651000.
-Car 0 has returned Passenger 33 at 16.652000.
-Car 0 is now accepting passengers at 16.654000.
-Passenger 33 exits the museum at 16.656000.
-Passenger 36 has requested ride 0 at 16.640000.
-Passenger 35 has requested ride 1 at 16.662000.
-Car 2 has accepted Passenger 35 at 16.670000.
-Car 1 is now accepting passengers at 16.551000.
-Car 1 has returned Passenger 34 at 16.673000.
-Car 1 is now accepting passengers at 16.681000.
-Passenger 36 enters the museum at 16.690000.
-Passenger 34 has requested ride 3 at 16.692000.
-Car 1 has accepted Passenger 34 at 16.694000.
-Car 1 has returned Passenger 34 at 16.696000.
-Passenger 31 exits the museum at 16.674000.
-Car 0 has accepted Passenger 36 at 16.665000.
-Car 1 is now accepting passengers at 16.706000.
-Car 0 has returned Passenger 36 at 16.725000.
-Car 2 has returned Passenger 35 at 16.672000.
-Passenger 34 has requested ride 4 at 16.726000.
-Car 2 is now accepting passengers at 16.743000.
-Car 1 has accepted Passenger 34 at 16.745000.
-Passenger 35 has requested ride 2 at 16.746000.
-Car 2 has accepted Passenger 35 at 16.749000.
-Car 1 has returned Passenger 34 at 16.749000.
-Car 2 has returned Passenger 35 at 16.752000.
-Car 1 is now accepting passengers at 16.753000.
-Car 2 is now accepting passengers at 16.754000.
-Passenger 34 exits the museum at 16.756000.
-Passenger 37 enters the museum at 16.763000.
-Car 0 is now accepting passengers at 16.754000.
-Passenger 36 has requested ride 1 at 16.774000.
-Car 0 has accepted Passenger 36 at 16.776000.
-Car 0 has returned Passenger 36 at 16.778000.
-Car 0 is now accepting passengers at 16.809000.
-Passenger 36 has requested ride 2 at 16.812000.
-Car 0 has accepted Passenger 36 at 16.813000.
-Passenger 37 has requested ride 0 at 16.814000.
-Passenger 35 has requested ride 3 at 16.757000.
-Car 0 has returned Passenger 36 at 16.815000.
-Car 0 is now accepting passengers at 16.826000.
-Car 0 has accepted Passenger 35 at 16.828000.
-Car 1 has accepted Passenger 37 at 16.821000.
-Car 1 has returned Passenger 37 at 16.834000.
-Car 1 is now accepting passengers at 16.836000.
-Passenger 37 has requested ride 1 at 16.844000.
-Car 1 has accepted Passenger 37 at 16.846000.
-Passenger 38 enters the museum at 16.847000.
-Passenger 36 has requested ride 3 at 16.829000.
-Passenger 38 has requested ride 0 at 16.868000.
-Car 1 has returned Passenger 37 at 16.848000.
-Car 3 has accepted Passenger 38 at 16.876000.
-Car 1 is now accepting passengers at 16.877000.
-Car 3 has returned Passenger 38 at 16.878000.
-Passenger 37 has requested ride 2 at 16.880000.
-Car 0 has returned Passenger 35 at 16.836000.
-Car 2 has accepted Passenger 36 at 16.870000.
-Car 3 is now accepting passengers at 16.880000.
-Car 0 is now accepting passengers at 16.885000.
-Passenger 38 has requested ride 1 at 16.905000.
-Passenger 35 has requested ride 4 at 16.907000.
-Passenger 39 enters the museum at 16.910000.
-Car 0 has accepted Passenger 37 at 16.887000.
-Car 1 has accepted Passenger 38 at 16.907000.
-Passenger 39 has requested ride 0 at 16.925000.
-Car 0 has returned Passenger 37 at 16.925000.
-Car 3 has accepted Passenger 35 at 16.913000.
-Car 0 is now accepting passengers at 16.937000.
-Passenger 37 has requested ride 3 at 16.940000.
-Car 0 has accepted Passenger 37 at 16.942000.
-Car 2 has returned Passenger 36 at 16.913000.
-Car 2 is now accepting passengers at 16.951000.
-Car 1 has returned Passenger 38 at 16.930000.
-Car 3 has returned Passenger 35 at 16.978000.
-Car 1 is now accepting passengers at 16.984000.
-Car 3 is now accepting passengers at 16.987000.
-Passenger 35 exits the museum at 16.989000.
-Passenger 38 has requested ride 2 at 16.989000.
-Car 1 has accepted Passenger 38 at 16.991000.
-Car 0 has returned Passenger 37 at 16.944000.
-Passenger 36 has requested ride 4 at 16.954000.
-Car 0 is now accepting passengers at 17.004000.
-Passenger 40 enters the museum at 16.956000.
-Passenger 37 has requested ride 4 at 17.008000.
-Car 2 has accepted Passenger 37 at 17.045000.
-Car 2 has returned Passenger 37 at 17.050000.
-Passenger 40 has requested ride 0 at 17.008000.
-Car 4 has accepted Passenger 39 at 16.931000.
-Car 0 has accepted Passenger 36 at 17.007000.
-Car 0 has returned Passenger 36 at 17.065000.
-Car 2 has accepted Passenger 40 at 17.065000.
-Car 0 is now accepting passengers at 17.068000.
-Car 4 has returned Passenger 39 at 17.070000.
-Car 4 is now accepting passengers at 17.078000.
-Passenger 36 exits the museum at 17.070000.
-Passenger 41 enters the museum at 17.087000.
-Car 1 has returned Passenger 38 at 16.994000.
-Passenger 41 has requested ride 0 at 17.118000.
-Car 1 is now accepting passengers at 17.125000.
-Car 0 has accepted Passenger 41 at 17.128000.
-Car 2 has returned Passenger 40 at 17.071000.
-Passenger 42 enters the museum at 17.139000.
-Car 2 is now accepting passengers at 17.141000.
-Car 0 has returned Passenger 41 at 17.132000.
-Passenger 40 has requested ride 1 at 17.150000.
-Passenger 38 has requested ride 3 at 17.132000.
-Car 0 has accepted Passenger 38 at 17.153000.
-Passenger 39 has requested ride 1 at 17.087000.
-Car 2 is now accepting passengers at 17.055000.
-Car 2 has accepted Passenger 39 at 17.179000.
-Car 2 has returned Passenger 39 at 17.182000.
-Passenger 37 exits the museum at 17.183000.
-Passenger 43 enters the museum at 17.192000.
-Car 0 is now accepting passengers at 17.150000.
-Car 2 is now accepting passengers at 17.183000.
-Passenger 39 has requested ride 2 at 17.209000.
-Passenger 41 has requested ride 1 at 17.210000.
-Car 3 has accepted Passenger 41 at 17.253000.
-Car 1 has accepted Passenger 40 at 17.158000.
-Car 2 has accepted Passenger 39 at 17.211000.
-Car 2 has returned Passenger 39 at 17.274000.
-Passenger 42 has requested ride 0 at 17.222000.
-Passenger 44 enters the museum at 17.254000.
-Car 2 has accepted Passenger 42 at 17.304000.
-Car 3 has returned Passenger 41 at 17.260000.
-Car 1 has returned Passenger 40 at 17.265000.
-Car 2 is now accepting passengers at 17.280000.
-Car 1 is now accepting passengers at 17.328000.
-Car 0 has returned Passenger 38 at 17.155000.
-Passenger 40 has requested ride 2 at 17.336000.
-Passenger 44 has requested ride 0 at 17.297000.
-Car 3 has accepted Passenger 44 at 17.365000.
-Passenger 45 enters the museum at 17.369000.
-Car 3 has returned Passenger 44 at 17.373000.
-Car 3 is now accepting passengers at 17.375000.
-Passenger 44 has requested ride 1 at 17.378000.
-Car 2 has returned Passenger 42 at 17.310000.
-Car 1 has accepted Passenger 40 at 17.354000.
-Passenger 45 has requested ride 0 at 17.403000.
-Car 3 has accepted Passenger 44 at 17.380000.
-Car 1 has returned Passenger 40 at 17.417000.
-Car 3 has returned Passenger 44 at 17.421000.
-Car 1 is now accepting passengers at 17.427000.
-Car 2 is now accepting passengers at 17.429000.
-Car 0 is now accepting passengers at 17.381000.
-Car 3 is now accepting passengers at 17.320000.
-Passenger 46 enters the museum at 17.443000.
-Passenger 38 has requested ride 4 at 17.450000.
-Car 1 has accepted Passenger 38 at 17.452000.
-Car 1 has returned Passenger 38 at 17.454000.
-Passenger 41 has requested ride 2 at 17.456000.
-Car 2 has accepted Passenger 41 at 17.458000.
-Car 2 has returned Passenger 41 at 17.460000.
-Car 2 is now accepting passengers at 17.462000.
-Car 1 is now accepting passengers at 17.463000.
-Passenger 38 exits the museum at 17.465000.
-Passenger 43 has requested ride 0 at 17.283000.
-Passenger 40 has requested ride 3 at 17.430000.
-Car 1 has accepted Passenger 40 at 17.476000.
-Car 2 has accepted Passenger 43 at 17.479000.
-Car 3 is now accepting passengers at 17.430000.
-Passenger 42 has requested ride 1 at 17.462000.
-Car 1 has returned Passenger 40 at 17.487000.
-Car 3 has accepted Passenger 42 at 17.489000.
-Car 2 has returned Passenger 43 at 17.490000.
-Car 2 is now accepting passengers at 17.492000.
-Passenger 43 has requested ride 1 at 17.495000.
-Car 0 has accepted Passenger 45 at 17.413000.
-Car 0 has returned Passenger 45 at 17.507000.
-Passenger 41 has requested ride 3 at 17.468000.
-Passenger 46 has requested ride 0 at 17.509000.
-Car 0 has accepted Passenger 46 at 17.572000.
-Car 0 has returned Passenger 46 at 17.577000.
-Car 0 is now accepting passengers at 17.582000.
-Passenger 44 has requested ride 2 at 17.514000.
-Car 2 has accepted Passenger 41 at 17.510000.
-Car 3 has returned Passenger 42 at 17.501000.
-Car 2 has returned Passenger 41 at 17.608000.
-Car 0 is now accepting passengers at 17.518000.
-Car 3 is now accepting passengers at 17.613000.
-Passenger 39 has requested ride 3 at 17.333000.
-Passenger 45 has requested ride 1 at 17.622000.
-Passenger 42 has requested ride 2 at 17.626000.
-Car 2 has accepted Passenger 42 at 17.629000.
-Car 3 has accepted Passenger 39 at 17.630000.
-Car 1 is now accepting passengers at 17.490000.
-Car 2 has returned Passenger 42 at 17.631000.
-Car 3 has returned Passenger 39 at 17.636000.
-Car 4 has accepted Passenger 45 at 17.632000.
-Car 2 is now accepting passengers at 17.638000.
-Car 4 has returned Passenger 45 at 17.645000.
-Car 1 has accepted Passenger 43 at 17.501000.
-Car 4 is now accepting passengers at 17.650000.
-Car 1 has returned Passenger 43 at 17.652000.
-Car 1 is now accepting passengers at 17.659000.
-Passenger 45 has requested ride 2 at 17.667000.
-Passenger 46 has requested ride 1 at 17.587000.
-Car 1 has accepted Passenger 46 at 17.671000.
-Car 1 has returned Passenger 46 at 17.674000.
-Car 1 is now accepting passengers at 17.675000.
-Passenger 43 has requested ride 2 at 17.676000.
-Passenger 46 has requested ride 2 at 17.678000.
-Car 2 has accepted Passenger 45 at 17.679000.
-Passenger 47 enters the museum at 17.565000.
-Passenger 47 has requested ride 0 at 17.550000.
-Car 4 has accepted Passenger 47 at 17.753000.
-Car 4 has returned Passenger 47 at 17.760000.
-Passenger 40 has requested ride 4 at 17.637000.
-Car 2 has returned Passenger 45 at 17.688000.
-Car 2 is now accepting passengers at 17.803000.
-Passenger 45 has requested ride 3 at 17.809000.
-Car 2 has accepted Passenger 45 at 17.814000.
-Car 1 has accepted Passenger 43 at 17.678000.
-Car 2 is now accepting passengers at 17.615000.
-Passenger 48 has requested ride 0 at 17.823000.
-Car 4 is now accepting passengers at 17.764000.
-Passenger 41 has requested ride 4 at 17.843000.
-Car 1 has returned Passenger 43 at 17.848000.
-Car 6 has accepted Passenger 41 at 17.851000.
-Car 4 has accepted Passenger 40 at 17.771000.
-Car 1 is now accepting passengers at 17.860000.
-Car 6 has returned Passenger 41 at 17.865000.
-Passenger 43 has requested ride 3 at 17.870000.
-Car 3 is now accepting passengers at 17.639000.
-Car 1 has accepted Passenger 43 at 17.872000.
-Car 1 has returned Passenger 43 at 17.874000.
-Car 1 is now accepting passengers at 17.876000.
-Passenger 43 has requested ride 4 at 17.879000.
-Car 1 has accepted Passenger 43 at 17.881000.
-Car 2 has returned Passenger 45 at 17.820000.
-Car 1 has returned Passenger 43 at 17.882000.
-Car 2 is now accepting passengers at 17.884000.
-Passenger 48 enters the museum at 17.785000.
-Passenger 39 has requested ride 4 at 17.889000.
-Passenger 45 has requested ride 4 at 17.891000.
-Car 1 is now accepting passengers at 17.884000.
-Car 1 has accepted Passenger 39 at 17.894000.
-Passenger 47 has requested ride 1 at 17.849000.
-Car 1 has returned Passenger 39 at 17.907000.
-Car 6 has accepted Passenger 47 at 17.909000.
-Car 1 is now accepting passengers at 17.919000.
-Passenger 39 exits the museum at 17.920000.
-Passenger 42 has requested ride 3 at 17.646000.
-Car 6 has returned Passenger 47 at 17.924000.
-Car 6 is now accepting passengers at 17.926000.
-Passenger 47 has requested ride 2 at 17.928000.
-Car 3 has accepted Passenger 46 at 17.688000.
-Car 0 has accepted Passenger 44 at 17.596000.
-Car 3 has returned Passenger 46 at 17.941000.
-Passenger 49 enters the museum at 17.974000.
-Car 6 has accepted Passenger 42 at 17.931000.
-Car 3 is now accepting passengers at 17.983000.
-Car 4 has returned Passenger 40 at 17.890000.
-Passenger 43 exits the museum at 17.899000.
-Car 5 has accepted Passenger 48 at 17.843000.
-Passenger 49 has requested ride 0 at 18.006000.
-Car 5 has returned Passenger 48 at 18.010000.
-Car 4 is now accepting passengers at 18.013000.
-Car 2 has accepted Passenger 45 at 17.898000.
-Car 2 has returned Passenger 45 at 18.019000.
-Car 2 is now accepting passengers at 18.021000.
-Car 1 has accepted Passenger 47 at 17.930000.
-Car 6 is now accepting passengers at 17.872000.
-Car 6 has returned Passenger 42 at 17.987000.
-Car 5 is now accepting passengers at 18.034000.
-Passenger 40 exits the museum at 18.036000.
-Passenger 48 has requested ride 1 at 18.038000.
-Car 2 has accepted Passenger 48 at 18.040000.
-Passenger 46 has requested ride 3 at 17.993000.
-Car 2 has returned Passenger 48 at 18.045000.
-Car 4 has accepted Passenger 46 at 18.047000.
-Car 2 is now accepting passengers at 18.050000.
-Car 4 has returned Passenger 46 at 18.053000.
-Car 1 has returned Passenger 47 at 18.032000.
-Car 1 is now accepting passengers at 18.058000.
-Car 3 has accepted Passenger 49 at 18.014000.
-Car 6 is now accepting passengers at 18.070000.
-Passenger 45 exits the museum at 18.022000.
-Car 0 has returned Passenger 44 at 17.949000.
-Passenger 42 has requested ride 4 at 18.081000.
-Car 4 is now accepting passengers at 18.060000.
-Car 1 has accepted Passenger 42 at 18.094000.
-Passenger 48 has requested ride 2 at 18.060000.
-Passenger 46 has requested ride 4 at 18.094000.
-Car 1 has returned Passenger 42 at 18.100000.
-Passenger 41 exits the museum at 18.070000.
-Car 1 is now accepting passengers at 18.114000.
-Car 0 is now accepting passengers at 18.099000.
-Passenger 47 has requested ride 3 at 18.061000.
-Passenger 44 has requested ride 3 at 18.138000.
-Car 1 has accepted Passenger 44 at 18.140000.
-Car 1 has returned Passenger 44 at 18.142000.
-Car 4 has accepted Passenger 47 at 18.144000.
-Car 2 has accepted Passenger 46 at 18.113000.
-Car 3 has returned Passenger 49 at 18.075000.
-Car 2 has returned Passenger 46 at 18.158000.
-Car 2 is now accepting passengers at 18.160000.
-Passenger 46 exits the museum at 18.198000.
-Passenger 42 exits the museum at 18.126000.
-Car 3 is now accepting passengers at 18.170000.
-Passenger 49 has requested ride 1 at 18.221000.
-Car 1 has accepted Passenger 49 at 18.228000.
-Car 1 is now accepting passengers at 18.144000.
-Car 4 has returned Passenger 47 at 18.148000.
-Car 0 has accepted Passenger 48 at 18.104000.
-Passenger 44 has requested ride 4 at 18.241000.
-Car 4 is now accepting passengers at 18.249000.
-Passenger 47 has requested ride 4 at 18.252000.
-Car 2 has accepted Passenger 47 at 18.254000.
-Car 3 has accepted Passenger 44 at 18.254000.
-Car 2 has returned Passenger 47 at 18.259000.
-Car 0 has returned Passenger 48 at 18.247000.
-Car 2 is now accepting passengers at 18.261000.
-Passenger 47 exits the museum at 18.263000.
-Car 0 is now accepting passengers at 18.267000.
-Car 3 has returned Passenger 44 at 18.260000.
-Passenger 48 has requested ride 3 at 18.273000.
-Car 3 is now accepting passengers at 18.274000.
-Car 0 has accepted Passenger 48 at 18.275000.
-Passenger 44 exits the museum at 18.276000.
-Car 0 has returned Passenger 48 at 18.277000.
-Car 1 has returned Passenger 49 at 18.235000.
-Car 1 is now accepting passengers at 18.289000.
-Car 0 is now accepting passengers at 18.279000.
-Passenger 48 has requested ride 4 at 18.299000.
-Car 0 has accepted Passenger 48 at 18.301000.
-Car 0 has returned Passenger 48 at 18.303000.
-Car 0 is now accepting passengers at 18.305000.
-Passenger 48 exits the museum at 18.307000.
-Passenger 49 has requested ride 2 at 18.292000.
-Car 0 has accepted Passenger 49 at 18.314000.
-Car 0 has returned Passenger 49 at 18.318000.
-Car 0 is now accepting passengers at 18.320000.
-Passenger 49 has requested ride 3 at 18.323000.
-Car 0 has accepted Passenger 49 at 18.325000.
-Car 0 has returned Passenger 49 at 18.327000.
-Car 0 is now accepting passengers at 18.329000.
-Passenger 49 has requested ride 4 at 18.332000.
-Car 0 has accepted Passenger 49 at 18.333000.
-Car 0 has returned Passenger 49 at 18.335000.
-Car 0 is now accepting passengers at 18.337000.
-Passenger 49 exits the museum at 18.339000.
+
+4438: **************
+Car 0 activated at 0.214000.
+Car 1 activated at 0.235000.
+Car 2 activated at 0.254000.
+Car 3 activated at 0.294000.
+Car 8 activated at 0.364000.
+Car 4 activated at 0.301000.
+Car 10 activated at 0.402000.
+Car 11 activated at 0.427000.
+Car 2 waiting at 1.190000.
+Car 0 waiting at 1.193000.
+Car 1 waiting at 1.198000.
+Car 4 waiting at 1.201000.
+Car 7 activated at 0.337000.
+Car 8 waiting at 1.213000.
+Car 7 waiting at 1.215000.
+Car 3 waiting at 1.223000.
+Car 10 waiting at 1.201000.
+Car 5 activated at 0.311000.
+Car 5 waiting at 4.305000.
+Car 13 activated at 4.180000.
+Car 13 waiting at 10.261000.
+Car 14 activated at 4.186000.
+Car 14 waiting at 10.273000.
+Car 15 activated at 4.187000.
+Car 15 waiting at 10.292000.
+Car 16 activated at 4.191000.
+Car 16 waiting at 11.023000.
+Car 17 activated at 4.192000.
+Car 17 waiting at 11.347000.
+Car 18 activated at 4.195000.
+Car 18 waiting at 16.764000.
+Car 19 activated at 4.196000.
+Car 19 waiting at 16.773000.
+Car 20 activated at 4.199000.
+Car 20 waiting at 21.268000.
+Car 21 activated at 4.201000.
+Car 21 waiting at 21.278000.
+Car 23 activated at 4.205000.
+Car 23 waiting at 24.177000.
+Passenger 9 entered the museum at 4.224000.
+Passenger 10 entered the museum at 4.226000.
+Passenger 11 entered the museum at 4.228000.
+Passenger 12 entered the museum at 4.228000.
+Passenger 13 entered the museum at 4.230000.
+Passenger 15 entered the museum at 4.233000.
+Passenger 16 entered the museum at 4.234000.
+Passenger 17 entered the museum at 4.236000.
+Passenger 18 entered the museum at 4.237000.
+Passenger 19 entered the museum at 4.237000.
+Passenger 11 made a request at 24.251000.
+Passenger 12 made a request at 24.254000.
+Passenger 20 entered the museum at 4.240000.
+Passenger 21 entered the museum at 4.241000.
+Passenger 23 entered the museum at 4.245000.
+Passenger 25 entered the museum at 4.249000.
+Passenger 26 entered the museum at 4.249000.
+Passenger 27 entered the museum at 4.252000.
+Passenger 28 entered the museum at 4.253000.
+Passenger 29 entered the museum at 4.254000.
+Passenger 30 entered the museum at 4.256000.
+Passenger 31 entered the museum at 4.257000.
+Passenger 32 entered the museum at 4.258000.
+Passenger 33 entered the museum at 4.259000.
+Passenger 18 made a request at 24.337000.
+Passenger 34 entered the museum at 4.261000.
+Passenger 35 entered the museum at 4.262000.
+Passenger 36 entered the museum at 4.263000.
+Passenger 37 entered the museum at 4.265000.
+Passenger 28 made a request at 24.357000.
+Passenger 38 entered the museum at 4.266000.
+Passenger 25 made a request at 24.365000.
+Passenger 16 made a request at 24.366000.
+Passenger 39 entered the museum at 4.267000.
+Passenger 40 entered the museum at 4.269000.
+Passenger 41 entered the museum at 4.270000.
+Passenger 42 entered the museum at 4.271000.
+Passenger 44 entered the museum at 4.275000.
+Passenger 31 made a request at 24.393000.
+Passenger 46 entered the museum at 4.279000.
+Passenger 47 entered the museum at 4.282000.
+Passenger 35 made a request at 24.413000.
+Passenger 49 entered the museum at 4.286000.
+Passenger 21 made a request at 24.417000.
+Passenger 36 made a request at 24.422000.
+Passenger 23 made a request at 24.429000.
+Car 9 activated at 0.383000.
+Car 6 activated at 0.319000.
+Car 9 waiting at 24.439000.
+Car 6 waiting at 24.442000.
+Car 12 activated at 1.214000.
+Car 12 waiting at 24.450000.
+Car 24 activated at 4.206000.
+Car 24 waiting at 25.080000.
+Car 11 waiting at 4.294000.
+Car 11 started ride at 31.306000.
+Car 22 activated at 4.208000.
+Car 22 waiting at 31.956000.
+Passenger 0 entered the museum at 4.209000.
+Passenger 1 entered the museum at 4.211000.
+Passenger 2 entered the museum at 4.214000.
+Passenger 4 entered the museum at 4.216000.
+Passenger 5 entered the museum at 4.219000.
+Passenger 6 entered the museum at 4.220000.
+Passenger 7 entered the museum at 4.222000.
+Passenger 34 made a request at 32.720000.
+Car 6 started ride at 32.724000.
+Passenger 8 entered the museum at 4.223000.
+Passenger 37 made a request at 24.440000.
+Car 9 started ride at 32.739000.
+Passenger 2 made a request at 32.953000.
+Car 12 started ride at 32.958000.
+Passenger 5 made a request at 33.051000.
+Passenger 6 made a request at 33.059000.
+Passenger 8 made a request at 32.960000.
+Passenger 0 made a request at 32.996000.
+Car 8 started ride at 33.080000.
+Passenger 7 made a request at 33.086000.
+Passenger 4 made a request at 33.288000.
+Passenger 1 made a request at 33.537000.
+Car 10 started ride at 34.161000.
+Passenger 11 boarded Car 0 at 34.269000.
+Passenger 12 boarded Car 1 at 34.270000.
+Passenger 18 boarded Car 2 at 34.350000.
+Passenger 28 boarded Car 3 at 34.369000.
+Passenger 25 boarded Car 4 at 34.380000.
+Passenger 16 boarded Car 5 at 34.380000.
+Passenger 12 deboarded Car 1 at 34.388000.
+Passenger 31 boarded Car 7 at 34.407000.
+Passenger 28 deboarded Car 3 at 34.409000.
+Passenger 11 deboarded Car 0 at 34.419000.
+Passenger 35 boarded Car 8 at 34.427000.
+Passenger 21 boarded Car 10 at 34.438000.
+Passenger 12 made a request at 34.439000.
+Passenger 36 boarded Car 11 at 34.442000.
+Passenger 23 boarded Car 13 at 34.450000.
+Passenger 46 made a request at 34.454000.
+Car 22 started ride at 34.459000.
+Passenger 19 made a request at 24.309000.
+Passenger 14 entered the museum at 4.232000.
+Passenger 45 entered the museum at 4.278000.
+Passenger 3 entered the museum at 4.296000.
+Passenger 22 entered the museum at 4.242000.
+Passenger 17 made a request at 34.483000.
+Passenger 48 entered the museum at 4.283000.
+Passenger 38 made a request at 34.481000.
+Passenger 24 entered the museum at 4.245000.
+Passenger 43 entered the museum at 4.274000.
+Passenger 20 made a request at 34.497000.
+Passenger 26 made a request at 34.504000.
+Car 24 started ride at 34.490000.
+Passenger 15 made a request at 34.508000.
+Passenger 41 made a request at 34.510000.
+Passenger 9 made a request at 34.508000.
+Passenger 10 made a request at 34.514000.
+Passenger 13 made a request at 24.429000.
+Passenger 42 made a request at 34.517000.
+Passenger 47 made a request at 34.519000.
+Passenger 32 made a request at 34.517000.
+Passenger 44 made a request at 34.524000.
+Passenger 33 made a request at 34.525000.
+Passenger 40 made a request at 34.531000.
+Passenger 27 made a request at 34.532000.
+Passenger 30 made a request at 34.532000.
+Passenger 39 made a request at 34.535000.
+Passenger 49 made a request at 34.536000.
+Car 23 started ride at 34.539000.
+Passenger 3 made a request at 34.540000.
+Passenger 31 deboarded Car 7 at 34.546000.
+Car 16 started ride at 34.548000.
+Car 15 started ride at 34.553000.
+Passenger 11 made a request at 34.557000.
+Passenger 29 made a request at 34.524000.
+Passenger 14 made a request at 34.563000.
+Passenger 28 made a request at 34.568000.
+Passenger 45 made a request at 34.603000.
+Passenger 16 deboarded Car 5 at 34.608000.
+Passenger 22 made a request at 34.652000.
+Passenger 48 made a request at 34.659000.
+Passenger 16 made a request at 34.677000.
+Passenger 21 deboarded Car 10 at 34.726000.
+Passenger 18 deboarded Car 2 at 34.731000.
+Passenger 23 deboarded Car 13 at 34.736000.
+Car 0 started ride at 34.744000.
+Car 0 entering cooldown at 34.745000.
+Car 1 started ride at 34.752000.
+Car 1 entering cooldown at 34.753000.
+Car 2 started ride at 34.760000.
+Car 2 entering cooldown at 34.761000.
+Car 7 started ride at 34.768000.
+Car 7 entering cooldown at 34.769000.
+Car 3 started ride at 34.776000.
+Car 3 entering cooldown at 34.777000.
+Car 13 started ride at 34.784000.
+Car 13 entering cooldown at 34.785000.
+Car 14 started ride at 34.792000.
+Passenger 31 made a request at 34.821000.
+Passenger 24 made a request at 34.926000.
+Passenger 21 made a request at 34.946000.
+Passenger 35 deboarded Car 8 at 34.951000.
+Car 8 entering cooldown at 34.958000.
+Car 4 started ride at 34.964000.
+Passenger 23 made a request at 35.008000.
+Passenger 25 deboarded Car 4 at 35.014000.
+Car 4 entering cooldown at 35.020000.
+Passenger 18 made a request at 35.069000.
+Passenger 43 made a request at 35.130000.
+Car 20 started ride at 35.294000.
+Passenger 25 made a request at 35.428000.
+Passenger 35 made a request at 35.433000.
+Passenger 36 deboarded Car 11 at 35.542000.
+Car 11 entering cooldown at 35.542000.
+Car 18 started ride at 35.557000.
+Car 11 waiting at 35.578000.
+Car 11 started ride at 35.604000.
+Passenger 36 made a request at 35.591000.
+Car 21 started ride at 41.576000.
+Car 19 started ride at 41.595000.
+Passenger 34 boarded Car 6 at 42.753000.
+Passenger 37 boarded Car 9 at 42.757000.
+Passenger 34 deboarded Car 6 at 42.911000.
+Passenger 2 boarded Car 12 at 42.970000.
+Passenger 34 made a request at 42.976000.
+Passenger 6 boarded Car 14 at 43.068000.
+Passenger 5 boarded Car 15 at 43.072000.
+Passenger 8 boarded Car 16 at 43.077000.
+Passenger 0 boarded Car 17 at 43.082000.
+Passenger 7 boarded Car 18 at 43.094000.
+Passenger 6 deboarded Car 14 at 43.097000.
+Passenger 2 deboarded Car 12 at 43.103000.
+Passenger 37 deboarded Car 9 at 43.104000.
+Car 14 entering cooldown at 43.109000.
+Car 6 entering cooldown at 43.118000.
+Passenger 37 made a request at 43.120000.
+Car 12 entering cooldown at 43.126000.
+Car 17 started ride at 34.540000.
+Passenger 7 deboarded Car 18 at 43.261000.
+Car 18 entering cooldown at 43.261000.
+Passenger 2 made a request at 43.278000.
+Car 5 started ride at 34.541000.
+Car 5 entering cooldown at 43.285000.
+Car 10 entering cooldown at 34.726000.
+Passenger 4 boarded Car 19 at 43.296000.
+Car 2 waiting at 43.307000.
+Car 2 started ride at 43.311000.
+Passenger 8 deboarded Car 16 at 43.346000.
+Passenger 0 deboarded Car 17 at 43.350000.
+Car 17 entering cooldown at 43.352000.
+Car 1 waiting at 43.368000.
+Car 1 started ride at 43.369000.
+Passenger 5 deboarded Car 15 at 43.408000.
+Passenger 4 deboarded Car 19 at 43.454000.
+Car 19 entering cooldown at 43.454000.
+Passenger 8 made a request at 43.462000.
+Passenger 4 made a request at 43.473000.
+Passenger 0 made a request at 43.539000.
+Passenger 1 boarded Car 20 at 43.551000.
+Passenger 1 deboarded Car 20 at 43.600000.
+Car 20 entering cooldown at 43.600000.
+Car 0 waiting at 43.619000.
+Car 0 started ride at 43.622000.
+Passenger 6 made a request at 43.782000.
+Passenger 1 made a request at 43.782000.
+Passenger 5 made a request at 43.788000.
+Passenger 7 made a request at 43.977000.
+Passenger 12 boarded Car 21 at 44.457000.
+Passenger 46 boarded Car 22 at 44.465000.
+Passenger 19 boarded Car 23 at 44.483000.
+Passenger 17 boarded Car 24 at 44.497000.
+Passenger 46 deboarded Car 22 at 44.554000.
+Car 22 entering cooldown at 44.555000.
+Car 23 entering cooldown at 44.578000.
+Passenger 19 deboarded Car 23 at 44.577000.
+Passenger 46 made a request at 44.583000.
+Car 3 waiting at 44.600000.
+Car 3 started ride at 44.602000.
+Car 8 waiting at 44.604000.
+Car 8 started ride at 44.605000.
+Passenger 17 deboarded Car 24 at 44.630000.
+Car 24 entering cooldown at 44.630000.
+Car 13 waiting at 44.647000.
+Car 13 started ride at 44.655000.
+Passenger 17 made a request at 44.786000.
+Passenger 19 made a request at 44.897000.
+Passenger 38 boarded Car 11 at 45.591000.
+Passenger 38 deboarded Car 11 at 45.868000.
+Car 11 entering cooldown at 45.869000.
+Passenger 12 deboarded Car 21 at 45.878000.
+Car 21 entering cooldown at 45.878000.
+Car 9 entering cooldown at 43.104000.
+Car 6 waiting at 45.899000.
+Car 6 started ride at 45.908000.
+Passenger 38 made a request at 46.135000.
+Car 12 waiting at 46.154000.
+Car 12 started ride at 46.159000.
+Passenger 12 made a request at 46.324000.
+Passenger 26 boarded Car 2 at 53.316000.
+Passenger 20 boarded Car 1 at 53.371000.
+Passenger 20 deboarded Car 1 at 53.432000.
+Car 1 entering cooldown at 53.432000.
+Car 5 waiting at 53.529000.
+Car 5 started ride at 53.536000.
+Passenger 20 made a request at 53.551000.
+Passenger 15 boarded Car 0 at 53.627000.
+Passenger 26 deboarded Car 2 at 53.735000.
+Car 2 entering cooldown at 53.735000.
+Car 10 waiting at 53.755000.
+Car 10 started ride at 53.763000.
+Passenger 26 made a request at 53.767000.
+Passenger 15 deboarded Car 0 at 53.811000.
+Car 0 entering cooldown at 53.811000.
+Car 14 waiting at 53.829000.
+Car 14 started ride at 53.834000.
+Passenger 15 made a request at 54.369000.
+Passenger 41 boarded Car 7 at 54.595000.
+Passenger 9 boarded Car 3 at 54.605000.
+Passenger 10 boarded Car 8 at 54.609000.
+Passenger 9 deboarded Car 3 at 54.623000.
+Car 20 waiting at 54.643000.
+Car 20 started ride at 54.650000.
+Car 19 waiting at 54.702000.
+Car 19 started ride at 54.711000.
+Passenger 13 boarded Car 13 at 54.659000.
+Passenger 10 deboarded Car 8 at 54.694000.
+Passenger 13 deboarded Car 13 at 54.756000.
+Car 13 entering cooldown at 54.756000.
+Car 17 waiting at 54.769000.
+Passenger 10 made a request at 54.776000.
+Car 17 started ride at 54.778000.
+Passenger 13 made a request at 54.798000.
+Passenger 41 deboarded Car 7 at 54.899000.
+Passenger 9 made a request at 55.580000.
+Passenger 41 made a request at 55.808000.
+Passenger 42 boarded Car 6 at 55.913000.
+Passenger 42 deboarded Car 6 at 55.932000.
+Car 6 entering cooldown at 55.932000.
+Car 18 waiting at 55.946000.
+Car 18 started ride at 55.954000.
+Passenger 47 boarded Car 12 at 56.162000.
+Passenger 42 made a request at 56.211000.
+Car 7 waiting at 44.581000.
+Car 7 started ride at 56.220000.
+Car 7 entering cooldown at 56.221000.
+Passenger 47 deboarded Car 12 at 56.678000.
+Car 12 entering cooldown at 56.678000.
+Car 24 waiting at 56.691000.
+Car 24 started ride at 56.700000.
+Passenger 47 made a request at 56.757000.
+Passenger 32 boarded Car 5 at 63.543000.
+Car 22 waiting at 63.596000.
+Car 22 started ride at 63.603000.
+Passenger 32 deboarded Car 5 at 63.747000.
+Car 5 entering cooldown at 63.747000.
+Passenger 44 boarded Car 10 at 63.771000.
+Passenger 33 boarded Car 14 at 63.843000.
+Passenger 32 made a request at 63.882000.
+Passenger 44 deboarded Car 10 at 63.915000.
+Car 10 entering cooldown at 63.915000.
+Car 21 waiting at 63.942000.
+Car 21 started ride at 63.943000.
+Passenger 33 deboarded Car 14 at 63.948000.
+Car 14 entering cooldown at 63.948000.
+Car 11 waiting at 63.973000.
+Car 11 started ride at 63.980000.
+Passenger 33 made a request at 64.189000.
+Passenger 44 made a request at 64.256000.
+Passenger 40 boarded Car 20 at 64.656000.
+Car 10 waiting at 64.716000.
+Passenger 27 boarded Car 19 at 64.724000.
+Car 10 started ride at 64.724000.
+Car 9 waiting at 64.744000.
+Car 9 started ride at 64.750000.
+Passenger 27 deboarded Car 19 at 64.751000.
+Passenger 30 boarded Car 17 at 64.786000.
+Passenger 27 made a request at 64.856000.
+Car 5 waiting at 64.875000.
+Car 5 started ride at 64.880000.
+Passenger 40 deboarded Car 20 at 65.111000.
+Passenger 30 deboarded Car 17 at 65.190000.
+Passenger 40 made a request at 65.266000.
+Passenger 30 made a request at 65.366000.
+Car 2 waiting at 65.511000.
+Car 2 started ride at 65.517000.
+Passenger 39 boarded Car 18 at 65.963000.
+Car 0 waiting at 65.999000.
+Car 0 started ride at 66.005000.
+Passenger 39 deboarded Car 18 at 66.622000.
+Passenger 49 boarded Car 24 at 66.713000.
+Passenger 49 deboarded Car 24 at 66.779000.
+Passenger 39 made a request at 66.817000.
+Passenger 49 made a request at 66.988000.
+Car 3 entering cooldown at 54.623000.
+Car 7 waiting at 67.463000.
+Car 7 started ride at 67.472000.
+Car 12 waiting at 67.476000.
+Car 12 started ride at 67.481000.
+Car 4 waiting at 67.663000.
+Car 15 entering cooldown at 67.690000.
+Car 16 entering cooldown at 67.690000.
+Car 8 entering cooldown at 54.694000.
+Car 13 waiting at 67.737000.
+Car 13 started ride at 67.743000.
+Car 23 waiting at 67.750000.
+Car 3 waiting at 67.878000.
+Car 3 started ride at 67.883000.
+Passenger 3 boarded Car 22 at 73.617000.
+Passenger 11 boarded Car 21 at 73.952000.
+Passenger 29 boarded Car 11 at 73.987000.
+Passenger 3 deboarded Car 22 at 74.040000.
+Car 22 entering cooldown at 74.040000.
+Passenger 3 made a request at 74.075000.
+Passenger 29 deboarded Car 11 at 74.402000.
+Car 11 entering cooldown at 74.403000.
+Passenger 29 made a request at 74.437000.
+Car 22 waiting at 74.445000.
+Car 22 started ride at 74.453000.
+Passenger 14 boarded Car 10 at 74.731000.
+Car 11 waiting at 74.745000.
+Car 11 started ride at 74.751000.
+Passenger 28 boarded Car 9 at 74.757000.
+Car 6 waiting at 74.791000.
+Car 6 started ride at 74.793000.
+Passenger 14 deboarded Car 10 at 74.891000.
+Passenger 45 boarded Car 5 at 74.892000.
+Passenger 11 deboarded Car 21 at 74.901000.
+Passenger 28 deboarded Car 9 at 75.047000.
+Passenger 11 made a request at 75.215000.
+Passenger 45 deboarded Car 5 at 75.272000.
+Passenger 14 made a request at 75.386000.
+Passenger 28 made a request at 75.409000.
+Passenger 22 boarded Car 2 at 75.530000.
+Passenger 22 deboarded Car 2 at 75.554000.
+Car 2 entering cooldown at 75.555000.
+Car 9 entering cooldown at 75.569000.
+Car 14 waiting at 75.578000.
+Passenger 22 made a request at 75.586000.
+Car 14 started ride at 75.590000.
+Passenger 45 made a request at 75.789000.
+Passenger 48 boarded Car 0 at 76.018000.
+Passenger 48 deboarded Car 0 at 76.144000.
+Car 0 entering cooldown at 76.144000.
+Passenger 48 made a request at 76.587000.
+Car 17 entering cooldown at 77.310000.
+Car 24 entering cooldown at 77.317000.
+Passenger 16 boarded Car 6 at 77.477000.
+Passenger 31 boarded Car 7 at 77.480000.
+Passenger 24 boarded Car 12 at 77.489000.
+Passenger 31 deboarded Car 7 at 77.661000.
+Car 7 entering cooldown at 77.662000.
+Car 4 started ride at 77.675000.
+Passenger 21 boarded Car 4 at 77.680000.
+Passenger 16 deboarded Car 6 at 77.682000.
+Car 6 entering cooldown at 77.691000.
+Passenger 16 made a request at 77.719000.
+Passenger 23 boarded Car 1 at 77.750000.
+Passenger 18 boarded Car 13 at 77.751000.
+Passenger 18 deboarded Car 13 at 77.790000.
+Passenger 23 deboarded Car 1 at 77.797000.
+Passenger 21 deboarded Car 4 at 77.798000.
+Car 1 waiting at 77.814000.
+Car 1 started ride at 77.815000.
+Car 1 entering cooldown at 77.816000.
+Car 19 entering cooldown at 77.825000.
+Passenger 18 made a request at 77.828000.
+Car 9 waiting at 77.829000.
+Car 20 entering cooldown at 77.832000.
+Car 2 waiting at 77.844000.
+Car 2 started ride at 77.853000.
+Car 0 waiting at 77.860000.
+Car 0 started ride at 77.867000.
+Passenger 43 boarded Car 3 at 77.887000.
+Passenger 23 made a request at 77.958000.
+Passenger 43 deboarded Car 3 at 77.984000.
+Passenger 24 deboarded Car 12 at 77.984000.
+Car 12 entering cooldown at 77.984000.
+Car 17 waiting at 78.008000.
+Car 17 started ride at 78.017000.
+Passenger 24 made a request at 78.120000.
+Passenger 21 made a request at 78.197000.
+Car 24 waiting at 78.525000.
+Car 24 started ride at 78.535000.
+Passenger 31 made a request at 78.810000.
+Car 6 waiting at 79.340000.
+Car 6 started ride at 79.346000.
+Passenger 43 made a request at 79.378000.
+Passenger 25 boarded Car 22 at 84.471000.
+Passenger 25 deboarded Car 22 at 84.537000.
+Car 22 entering cooldown at 84.537000.
+Car 9 started ride at 77.833000.
+Passenger 35 boarded Car 11 at 84.756000.
+Passenger 35 deboarded Car 11 at 85.069000.
+Car 11 entering cooldown at 85.069000.
+Passenger 35 made a request at 85.533000.
+Passenger 36 boarded Car 14 at 85.597000.
+Passenger 25 made a request at 85.753000.
+Passenger 36 deboarded Car 14 at 85.943000.
+Car 14 entering cooldown at 85.943000.
+Car 3 entering cooldown at 77.984000.
+Car 7 waiting at 85.964000.
+Car 7 started ride at 85.972000.
+Passenger 36 made a request at 86.020000.
+Car 12 waiting at 86.712000.
+Car 12 started ride at 86.717000.
+Passenger 34 boarded Car 9 at 87.777000.
+Passenger 37 boarded Car 23 at 87.828000.
+Passenger 2 boarded Car 2 at 87.854000.
+Passenger 8 boarded Car 0 at 87.873000.
+Passenger 8 deboarded Car 0 at 87.941000.
+Passenger 37 deboarded Car 23 at 87.972000.
+Passenger 8 made a request at 88.022000.
+Passenger 4 boarded Car 17 at 88.023000.
+Passenger 2 deboarded Car 2 at 88.076000.
+Car 2 entering cooldown at 88.082000.
+Car 22 waiting at 88.092000.
+Car 22 started ride at 88.098000.
+Passenger 37 made a request at 88.107000.
+Passenger 34 deboarded Car 9 at 88.190000.
+Car 9 entering cooldown at 88.190000.
+Car 11 waiting at 88.205000.
+Car 11 started ride at 88.214000.
+Car 17 entering cooldown at 88.233000.
+Passenger 4 deboarded Car 17 at 88.233000.
+Car 3 waiting at 88.254000.
+Car 3 started ride at 88.259000.
+Car 2 waiting at 88.286000.
+Car 2 started ride at 88.293000.
+Passenger 34 made a request at 88.393000.
+Passenger 2 made a request at 88.494000.
+Passenger 0 boarded Car 24 at 88.541000.
+Passenger 0 deboarded Car 24 at 88.707000.
+Car 24 entering cooldown at 88.708000.
+Passenger 4 made a request at 88.911000.
+Passenger 0 made a request at 88.935000.
+Car 24 waiting at 88.940000.
+Car 24 started ride at 88.946000.
+Passenger 6 boarded Car 6 at 89.351000.
+Passenger 6 deboarded Car 6 at 89.633000.
+Car 6 entering cooldown at 89.633000.
+Car 9 waiting at 89.649000.
+Car 9 started ride at 89.654000.
+Passenger 6 made a request at 90.173000.
+Passenger 1 boarded Car 7 at 95.980000.
+Car 6 waiting at 96.143000.
+Car 6 started ride at 96.144000.
+Passenger 5 boarded Car 12 at 96.721000.
+Passenger 5 deboarded Car 12 at 96.962000.
+Car 12 entering cooldown at 96.962000.
+Passenger 1 deboarded Car 7 at 97.056000.
+Passenger 1 made a request at 97.093000.
+Passenger 5 made a request at 97.548000.
+Passenger 7 boarded Car 22 at 98.110000.
+Passenger 46 boarded Car 11 at 98.220000.
+Car 23 started ride at 98.245000.
+Car 23 entering cooldown at 98.246000.
+Car 13 entering cooldown at 98.255000.
+Passenger 17 boarded Car 3 at 98.263000.
+Car 15 waiting at 98.285000.
+Car 15 started ride at 98.286000.
+Passenger 7 deboarded Car 22 at 98.288000.
+Car 22 entering cooldown at 98.289000.
+Passenger 19 boarded Car 2 at 98.298000.
+Car 16 waiting at 98.318000.
+Car 16 started ride at 98.319000.
+Passenger 7 made a request at 98.408000.
+Passenger 46 deboarded Car 11 at 98.412000.
+Car 11 entering cooldown at 98.413000.
+Car 4 entering cooldown at 77.798000.
+Car 1 waiting at 98.434000.
+Car 1 started ride at 98.442000.
+Passenger 17 deboarded Car 3 at 98.594000.
+Car 13 waiting at 98.595000.
+Car 13 started ride at 98.602000.
+Passenger 17 made a request at 98.628000.
+Passenger 19 deboarded Car 2 at 98.727000.
+Passenger 19 made a request at 98.814000.
+Passenger 46 made a request at 98.817000.
+Passenger 38 boarded Car 24 at 98.964000.
+Passenger 38 deboarded Car 24 at 99.047000.
+Car 24 entering cooldown at 99.048000.
+Car 3 entering cooldown at 99.065000.
+Car 23 waiting at 99.074000.
+Car 23 started ride at 99.084000.
+Passenger 38 made a request at 99.528000.
+Car 24 waiting at 99.536000.
+Car 24 started ride at 99.543000.
+Passenger 12 boarded Car 9 at 99.658000.
+Passenger 12 deboarded Car 9 at 100.201000.
+Passenger 12 exited at 100.202000.
+Passenger 20 boarded Car 6 at 106.104000.
+Car 4 waiting at 106.122000.
+Car 4 started ride at 106.133000.
+Passenger 20 deboarded Car 6 at 106.138000.
+Car 6 entering cooldown at 106.138000.
+Passenger 20 made a request at 106.263000.
+Car 8 waiting at 106.872000.
+Car 8 started ride at 106.878000.
+Car 6 waiting at 106.884000.
+Car 6 started ride at 106.889000.
+Car 21 entering cooldown at 107.289000.
+Car 18 entering cooldown at 77.845000.
+Car 20 waiting at 107.311000.
+Car 20 started ride at 107.319000.
+Passenger 26 boarded Car 15 at 108.286000.
+Passenger 15 boarded Car 16 at 108.322000.
+Passenger 10 boarded Car 1 at 108.449000.
+Passenger 26 deboarded Car 15 at 108.556000.
+Car 15 entering cooldown at 108.556000.
+Passenger 15 deboarded Car 16 at 108.590000.
+Passenger 26 made a request at 108.607000.
+Passenger 13 boarded Car 13 at 108.615000.
+Passenger 15 made a request at 108.664000.
+Passenger 13 deboarded Car 13 at 108.759000.
+Car 13 entering cooldown at 108.760000.
+Car 16 entering cooldown at 108.772000.
+Car 18 waiting at 108.787000.
+Car 18 started ride at 108.788000.
+Passenger 13 made a request at 108.867000.
+Car 19 waiting at 108.877000.
+Car 19 started ride at 108.883000.
+Passenger 10 deboarded Car 1 at 108.924000.
+Car 1 entering cooldown at 108.924000.
+Passenger 9 boarded Car 23 at 109.091000.
+Car 1 waiting at 109.109000.
+Car 10 entering cooldown at 109.112000.
+Car 7 entering cooldown at 97.056000.
+Car 5 entering cooldown at 109.125000.
+Car 0 entering cooldown at 87.941000.
+Car 14 waiting at 109.138000.
+Car 14 started ride at 109.144000.
+Car 17 waiting at 109.148000.
+Car 1 started ride at 109.116000.
+Car 17 started ride at 109.154000.
+Passenger 9 deboarded Car 23 at 109.196000.
+Car 13 waiting at 109.205000.
+Car 13 started ride at 109.210000.
+Car 15 waiting at 109.215000.
+Car 15 started ride at 109.222000.
+Passenger 9 made a request at 109.279000.
+Passenger 41 boarded Car 24 at 109.552000.
+Car 12 waiting at 109.556000.
+Car 12 started ride at 109.562000.
+Passenger 10 made a request at 109.689000.
+Passenger 41 deboarded Car 24 at 109.792000.
+Passenger 41 made a request at 109.894000.
+Car 22 waiting at 110.841000.
+Car 22 started ride at 110.874000.
+Passenger 42 boarded Car 4 at 116.138000.
+Car 11 waiting at 116.138000.
+Car 11 started ride at 116.146000.
+Passenger 42 deboarded Car 4 at 116.153000.
+Passenger 42 made a request at 116.689000.
+Passenger 47 boarded Car 8 at 116.888000.
+Car 16 waiting at 116.894000.
+Passenger 32 boarded Car 6 at 116.899000.
+Car 16 started ride at 116.902000.
+Passenger 47 deboarded Car 8 at 116.945000.
+Passenger 47 made a request at 116.983000.
+Passenger 32 deboarded Car 6 at 117.041000.
+Passenger 32 made a request at 117.154000.
+Passenger 33 boarded Car 20 at 117.333000.
+Passenger 33 deboarded Car 20 at 117.657000.
+Passenger 33 made a request at 117.944000.
+Passenger 44 boarded Car 18 at 118.791000.
+Passenger 44 deboarded Car 18 at 118.844000.
+Passenger 27 boarded Car 19 at 118.890000.
+Passenger 27 deboarded Car 19 at 119.020000.
+Passenger 40 boarded Car 1 at 119.124000.
+Passenger 30 boarded Car 14 at 119.154000.
+Passenger 44 made a request at 119.155000.
+Car 8 entering cooldown at 119.160000.
+Passenger 39 boarded Car 17 at 119.165000.
+Car 18 entering cooldown at 119.169000.
+Car 3 waiting at 119.175000.
+Car 19 entering cooldown at 119.178000.
+Car 3 started ride at 119.183000.
+Car 20 entering cooldown at 119.186000.
+Passenger 30 deboarded Car 14 at 119.187000.
+Passenger 27 made a request at 119.194000.
+Car 21 waiting at 119.203000.
+Car 18 waiting at 119.207000.
+Car 18 started ride at 119.211000.
+Car 21 started ride at 119.215000.
+Passenger 49 boarded Car 13 at 119.221000.
+Car 9 entering cooldown at 119.226000.
+Passenger 3 boarded Car 15 at 119.234000.
+Car 10 waiting at 119.249000.
+Car 10 started ride at 119.257000.
+Passenger 3 deboarded Car 15 at 119.296000.
+Car 15 entering cooldown at 119.296000.
+Car 8 waiting at 119.308000.
+Passenger 30 made a request at 119.315000.
+Car 8 started ride at 119.315000.
+Car 9 waiting at 119.322000.
+Car 9 started ride at 119.349000.
+Passenger 49 deboarded Car 13 at 119.352000.
+Passenger 3 made a request at 119.371000.
+Passenger 39 deboarded Car 17 at 119.376000.
+Car 19 waiting at 119.387000.
+Car 19 started ride at 119.393000.
+Car 20 waiting at 119.399000.
+Car 20 started ride at 119.405000.
+Passenger 40 deboarded Car 1 at 119.444000.
+Passenger 49 made a request at 119.542000.
+Passenger 29 boarded Car 12 at 119.570000.
+Passenger 29 deboarded Car 12 at 119.801000.
+Passenger 29 made a request at 119.817000.
+Passenger 40 made a request at 119.820000.
+Passenger 39 made a request at 119.859000.
+Passenger 11 boarded Car 22 at 120.843000.
+Passenger 11 deboarded Car 22 at 121.032000.
+Passenger 11 exited at 121.033000.
+Passenger 14 boarded Car 11 at 126.137000.
+Car 7 waiting at 126.895000.
+Car 7 started ride at 126.903000.
+Passenger 28 boarded Car 16 at 127.405000.
+Passenger 14 deboarded Car 11 at 127.422000.
+Passenger 14 made a request at 127.499000.
+Passenger 28 deboarded Car 16 at 127.982000.
+Passenger 28 exited at 127.983000.
+Passenger 22 boarded Car 3 at 129.193000.
+Car 4 entering cooldown at 129.203000.
+Car 17 entering cooldown at 129.211000.
+Car 23 entering cooldown at 129.217000.
+Passenger 45 boarded Car 18 at 129.219000.
+Car 0 waiting at 129.226000.
+Passenger 48 boarded Car 21 at 129.230000.
+Car 5 waiting at 129.235000.
+Car 5 started ride at 129.242000.
+Passenger 16 boarded Car 10 at 129.260000.
+Passenger 18 boarded Car 8 at 129.321000.
+Passenger 16 deboarded Car 10 at 129.329000.
+Passenger 16 exited at 129.330000.
+Passenger 48 deboarded Car 21 at 129.323000.
+Car 10 entering cooldown at 129.339000.
+Passenger 23 boarded Car 9 at 129.355000.
+Car 0 started ride at 129.364000.
+Passenger 24 boarded Car 19 at 129.397000.
+Passenger 21 boarded Car 20 at 129.411000.
+Passenger 18 deboarded Car 8 at 129.413000.
+Passenger 48 made a request at 129.408000.
+Passenger 23 deboarded Car 9 at 129.426000.
+Passenger 23 exited at 129.427000.
+Car 12 entering cooldown at 129.427000.
+Car 9 entering cooldown at 129.430000.
+Car 14 entering cooldown at 129.437000.
+Passenger 18 exited at 129.424000.
+Car 8 entering cooldown at 129.414000.
+Car 24 entering cooldown at 129.445000.
+Car 4 waiting at 129.463000.
+Car 17 waiting at 129.494000.
+Car 4 started ride at 129.495000.
+Car 17 started ride at 129.500000.
+Car 10 waiting at 129.465000.
+Car 10 started ride at 129.505000.
+Passenger 21 deboarded Car 20 at 129.513000.
+Passenger 21 exited at 129.515000.
+Car 20 entering cooldown at 129.513000.
+Passenger 45 deboarded Car 18 at 129.595000.
+Car 18 entering cooldown at 129.595000.
+Car 12 waiting at 129.618000.
+Car 12 started ride at 129.627000.
+Passenger 45 made a request at 129.629000.
+Passenger 22 deboarded Car 3 at 129.659000.
+Car 18 waiting at 129.670000.
+Car 18 started ride at 129.675000.
+Car 8 waiting at 129.679000.
+Car 8 started ride at 129.687000.
+Car 20 waiting at 129.693000.
+Car 20 started ride at 129.699000.
+Passenger 24 deboarded Car 19 at 129.710000.
+Car 19 entering cooldown at 129.711000.
+Passenger 22 made a request at 129.746000.
+Passenger 24 made a request at 129.896000.
+Car 19 waiting at 130.502000.
+Car 19 started ride at 130.507000.
+Passenger 31 boarded Car 7 at 136.906000.
+Passenger 31 deboarded Car 7 at 136.970000.
+Passenger 31 exited at 136.982000.
+Car 7 entering cooldown at 136.970000.
+Passenger 43 boarded Car 0 at 139.241000.
+Passenger 35 boarded Car 5 at 139.247000.
+Passenger 25 boarded Car 4 at 139.468000.
+Passenger 36 boarded Car 10 at 139.470000.
+Passenger 8 boarded Car 15 at 139.486000.
+Car 9 waiting at 139.498000.
+Car 9 started ride at 139.504000.
+Passenger 37 boarded Car 17 at 139.507000.
+Passenger 35 deboarded Car 5 at 139.551000.
+Passenger 35 exited at 139.552000.
+Passenger 37 deboarded Car 17 at 139.586000.
+Car 10 entering cooldown at 139.587000.
+Passenger 37 exited at 139.590000.
+Passenger 36 deboarded Car 10 at 139.587000.
+Passenger 36 exited at 139.592000.
+Car 17 entering cooldown at 139.587000.
+Car 15 waiting at 129.479000.
+Car 15 started ride at 139.617000.
+Passenger 34 boarded Car 12 at 139.631000.
+Passenger 2 boarded Car 18 at 139.680000.
+Passenger 43 deboarded Car 0 at 139.681000.
+Passenger 25 deboarded Car 4 at 139.690000.
+Passenger 25 exited at 139.691000.
+Passenger 4 boarded Car 8 at 139.692000.
+Car 4 entering cooldown at 139.699000.
+Car 0 entering cooldown at 139.705000.
+Car 16 entering cooldown at 129.482000.
+Passenger 0 boarded Car 20 at 139.711000.
+Car 23 waiting at 139.721000.
+Car 23 started ride at 139.727000.
+Car 21 entering cooldown at 129.485000.
+Car 3 entering cooldown at 139.737000.
+Car 22 entering cooldown at 139.743000.
+Car 11 entering cooldown at 139.749000.
+Car 1 entering cooldown at 139.756000.
+Passenger 43 made a request at 139.790000.
+Passenger 2 deboarded Car 18 at 139.828000.
+Passenger 2 exited at 139.831000.
+Car 18 entering cooldown at 139.828000.
+Passenger 0 deboarded Car 20 at 139.882000.
+Passenger 0 exited at 139.889000.
+Car 10 waiting at 139.893000.
+Car 10 started ride at 139.901000.
+Passenger 8 deboarded Car 15 at 139.920000.
+Passenger 8 exited at 139.923000.
+Car 16 waiting at 139.930000.
+Car 16 started ride at 139.935000.
+Car 21 waiting at 139.955000.
+Car 21 started ride at 139.956000.
+Passenger 4 deboarded Car 8 at 140.186000.
+Passenger 4 exited at 140.189000.
+Car 18 waiting at 140.201000.
+Car 18 started ride at 140.210000.
+Car 8 entering cooldown at 140.186000.
+Car 4 waiting at 140.221000.
+Car 4 started ride at 140.224000.
+Passenger 6 boarded Car 19 at 140.511000.
+Passenger 6 deboarded Car 19 at 140.710000.
+Passenger 6 exited at 140.712000.
+Passenger 34 deboarded Car 12 at 140.721000.
+Passenger 34 exited at 140.722000.
+Car 8 waiting at 140.745000.
+Car 8 started ride at 140.752000.
+Passenger 1 boarded Car 9 at 149.509000.
+Passenger 1 deboarded Car 9 at 149.604000.
+Passenger 1 exited at 149.605000.
+Car 9 entering cooldown at 149.630000.
+Car 12 entering cooldown at 149.641000.
+Car 15 entering cooldown at 139.920000.
+Car 0 waiting at 149.666000.
+Car 0 started ride at 149.672000.
+Passenger 5 boarded Car 23 at 149.736000.
+Passenger 5 deboarded Car 23 at 149.829000.
+Passenger 5 exited at 149.831000.
+Car 23 entering cooldown at 149.829000.
+Car 7 waiting at 149.872000.
+Car 7 started ride at 149.878000.
+Car 12 waiting at 149.893000.
+Car 12 started ride at 149.898000.
+Passenger 17 boarded Car 16 at 149.943000.
+Passenger 7 boarded Car 10 at 149.935000.
+Passenger 19 boarded Car 21 at 149.965000.
+Car 15 waiting at 149.971000.
+Car 15 started ride at 149.972000.
+Passenger 19 deboarded Car 21 at 149.998000.
+Passenger 19 exited at 150.000000.
+Car 23 waiting at 150.039000.
+Car 23 started ride at 150.040000.
+Car 22 waiting at 150.049000.
+Car 22 started ride at 150.056000.
+Passenger 17 deboarded Car 16 at 150.082000.
+Passenger 17 exited at 150.083000.
+Car 3 waiting at 150.127000.
+Car 3 started ride at 150.133000.
+Passenger 7 deboarded Car 10 at 150.154000.
+Passenger 7 exited at 150.155000.
+Car 1 waiting at 150.191000.
+Car 11 waiting at 150.214000.
+Passenger 46 boarded Car 18 at 150.219000.
+Car 11 started ride at 150.222000.
+Passenger 38 boarded Car 4 at 150.233000.
+Car 21 entering cooldown at 149.998000.
+Car 1 started ride at 150.244000.
+Passenger 38 deboarded Car 4 at 150.581000.
+Passenger 38 exited at 150.584000.
+Car 4 entering cooldown at 150.582000.
+Car 19 entering cooldown at 140.710000.
+Car 21 waiting at 150.614000.
+Car 21 started ride at 150.623000.
+Car 13 entering cooldown at 150.632000.
+Car 14 waiting at 150.646000.
+Car 14 started ride at 150.653000.
+Car 5 entering cooldown at 150.744000.
+Car 17 waiting at 150.756000.
+Passenger 20 boarded Car 8 at 150.760000.
+Car 17 started ride at 150.764000.
+Car 20 entering cooldown at 139.882000.
+Car 6 entering cooldown at 150.785000.
+Car 24 waiting at 150.793000.
+Passenger 20 deboarded Car 8 at 150.802000.
+Passenger 20 exited at 150.803000.
+Car 24 started ride at 150.805000.
+Car 13 waiting at 150.843000.
+Car 13 started ride at 150.850000.
+Car 5 waiting at 150.854000.
+Car 5 started ride at 150.860000.
+Passenger 46 deboarded Car 18 at 150.950000.
+Passenger 46 exited at 150.951000.
+Car 4 waiting at 151.281000.
+Car 4 started ride at 151.286000.
+Passenger 26 boarded Car 0 at 159.680000.
+Passenger 15 boarded Car 7 at 159.887000.
+Passenger 13 boarded Car 12 at 159.906000.
+Passenger 9 boarded Car 15 at 159.976000.
+Passenger 13 deboarded Car 12 at 160.042000.
+Passenger 13 exited at 160.043000.
+Passenger 10 boarded Car 23 at 160.046000.
+Passenger 41 boarded Car 22 at 160.064000.
+Passenger 42 boarded Car 3 at 160.141000.
+Passenger 9 deboarded Car 15 at 160.184000.
+Passenger 9 exited at 160.185000.
+Passenger 26 deboarded Car 0 at 160.185000.
+Passenger 26 exited at 160.194000.
+Passenger 47 boarded Car 1 at 160.205000.
+Passenger 32 boarded Car 11 at 160.232000.
+Car 9 waiting at 160.246000.
+Passenger 47 deboarded Car 1 at 160.251000.
+Passenger 47 exited at 160.254000.
+Car 1 entering cooldown at 160.251000.
+Car 19 waiting at 160.268000.
+Car 9 started ride at 160.276000.
+Car 0 entering cooldown at 160.299000.
+Passenger 42 deboarded Car 3 at 160.328000.
+Passenger 42 exited at 160.330000.
+Passenger 10 deboarded Car 23 at 160.367000.
+Passenger 10 exited at 160.369000.
+Car 23 entering cooldown at 160.367000.
+Car 19 started ride at 160.392000.
+Passenger 41 deboarded Car 22 at 160.400000.
+Passenger 41 exited at 160.403000.
+Car 22 entering cooldown at 160.401000.
+Car 2 entering cooldown at 160.407000.
+Car 16 entering cooldown at 160.413000.
+Car 20 waiting at 160.417000.
+Car 10 entering cooldown at 160.420000.
+Car 20 started ride at 160.427000.
+Car 18 entering cooldown at 160.428000.
+Car 23 waiting at 160.438000.
+Car 23 started ride at 160.447000.
+Car 8 entering cooldown at 160.453000.
+Passenger 15 deboarded Car 7 at 160.570000.
+Passenger 15 exited at 160.571000.
+Passenger 32 deboarded Car 11 at 160.596000.
+Passenger 32 exited at 160.607000.
+Car 3 entering cooldown at 160.612000.
+Car 7 entering cooldown at 160.619000.
+Car 22 waiting at 160.631000.
+Passenger 33 boarded Car 21 at 160.637000.
+Car 22 started ride at 160.646000.
+Passenger 44 boarded Car 14 at 160.664000.
+Car 0 waiting at 160.672000.
+Car 0 started ride at 160.674000.
+Passenger 33 deboarded Car 21 at 160.695000.
+Passenger 33 exited at 160.697000.
+Car 21 entering cooldown at 160.695000.
+Car 11 entering cooldown at 160.597000.
+Passenger 27 boarded Car 17 at 160.773000.
+Passenger 30 boarded Car 24 at 160.810000.
+Passenger 3 boarded Car 13 at 160.855000.
+Passenger 49 boarded Car 5 at 160.868000.
+Passenger 30 deboarded Car 24 at 160.887000.
+Passenger 30 exited at 160.888000.
+Car 7 waiting at 160.929000.
+Car 7 started ride at 160.939000.
+Passenger 49 deboarded Car 5 at 160.940000.
+Passenger 49 exited at 160.943000.
+Passenger 44 deboarded Car 14 at 160.941000.
+Passenger 44 exited at 160.945000.
+Passenger 27 deboarded Car 17 at 161.011000.
+Passenger 27 exited at 161.012000.
+Car 21 waiting at 161.287000.
+Car 21 started ride at 161.294000.
+Passenger 3 deboarded Car 13 at 161.294000.
+Passenger 3 exited at 161.296000.
+Passenger 29 boarded Car 4 at 161.294000.
+Passenger 29 deboarded Car 4 at 161.369000.
+Passenger 29 exited at 161.381000.
+Car 13 entering cooldown at 168.030000.
+Car 5 entering cooldown at 168.037000.
+Car 17 entering cooldown at 168.043000.
+Car 14 entering cooldown at 168.050000.
+Car 16 waiting at 168.057000.
+Car 2 waiting at 168.069000.
+Passenger 40 boarded Car 9 at 170.285000.
+Passenger 39 boarded Car 19 at 170.293000.
+Passenger 39 deboarded Car 19 at 170.321000.
+Passenger 39 exited at 170.321000.
+Car 11 waiting at 170.358000.
+Passenger 14 boarded Car 20 at 170.435000.
+Passenger 48 boarded Car 23 at 170.451000.
+Passenger 14 deboarded Car 20 at 170.559000.
+Passenger 14 exited at 170.561000.
+Car 20 entering cooldown at 170.559000.
+Car 15 entering cooldown at 168.039000.
+Passenger 48 deboarded Car 23 at 170.600000.
+Passenger 48 exited at 170.601000.
+Car 17 waiting at 170.605000.
+Car 13 waiting at 170.632000.
+Passenger 45 boarded Car 22 at 170.655000.
+Passenger 22 boarded Car 0 at 170.673000.
+Passenger 45 deboarded Car 22 at 170.870000.
+Passenger 45 exited at 170.871000.
+Car 20 waiting at 170.896000.
+Car 15 waiting at 170.910000.
+Passenger 24 boarded Car 7 at 170.948000.
+Passenger 22 deboarded Car 0 at 171.098000.
+Passenger 22 exited at 171.101000.
+Car 0 entering cooldown at 171.099000.
+Car 5 waiting at 171.117000.
+Passenger 40 deboarded Car 9 at 171.140000.
+Passenger 40 exited at 171.141000.
+Passenger 43 boarded Car 21 at 171.303000.
+Passenger 43 deboarded Car 21 at 171.405000.
+Passenger 43 exited at 171.406000.
+Passenger 24 deboarded Car 7 at 171.842000.
+Passenger 24 exited at 171.843000.
+Car 16 deactivated at 171.845000, after 4 rides.
+Car 17 deactivated at 171.845000, after 6 rides.
+Car 7 deactivated at 171.856000, after 6 rides.
+Car 6 deactivated at 171.859000, after 6 rides.
+Car 0 deactivated at 171.869000, after 7 rides.
+Car 15 deactivated at 171.877000, after 5 rides.
+Car 18 deactivated at 171.880000, after 6 rides.
+Car 5 deactivated at 171.845000, after 5 rides.
+Car 8 deactivated at 171.896000, after 6 rides.
+Car 3 deactivated at 171.898000, after 6 rides.
+Car 1 deactivated at 171.900000, after 6 rides.
+Car 19 deactivated at 171.908000, after 5 rides.
+Car 4 entering cooldown at 161.369000.
+Car 23 deactivated at 171.917000, after 5 rides.
+Car 21 deactivated at 171.918000, after 5 rides.
+Car 22 deactivated at 171.923000, after 6 rides.
+Car 12 deactivated at 171.925000, after 6 rides.
+Car 2 deactivated at 171.845000, after 5 rides.
+Car 13 deactivated at 171.845000, after 6 rides.
+Car 20 deactivated at 171.845000, after 6 rides.
+Car 14 deactivated at 171.857000, after 5 rides.
+Car 24 deactivated at 171.858000, after 5 rides.
+Car 10 deactivated at 171.880000, after 6 rides.
+Car 11 deactivated at 171.845000, after 7 rides.
+Car 9 deactivated at 171.957000, after 6 rides.
+Car 4 deactivated at 172.522000, after 6 rides.
