@@ -1,0 +1,784 @@
+\documentclass[12pt,onecolumn]{IEEEtran}
+\usepackage{setspace}
+\usepackage{gensymb}
+\usepackage{caption}
+\usepackage{float}
+\usepackage[margin=1cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+% \usepackage{newfloat}
+% %\usepackage{syntax}
+% \usepackage{listings}
+% \usepackage{iithtlc}
+% % \usepackage{color}
+% \usepackage{tikz}
+% \usetikzlibrary{shapes,arrows}
+%\usepackage{graphicx}
+%\usepackage{amssymb}
+%\usepackage{relsize}
+%\usepackage[cmex10]{amsmath}
+%\usepackage{mathtools}
+%\usepackage{amsthm}
+%\interdisplaylinepenalty=2500
+%\savesymbol{iint}
+%\usepackage{txfonts}
+%\restoresymbol{TXF}{iint}
+%\usepackage{wasysym}
+% % \usepackage{amsthm}
+% \usepackage{mathrsfs}
+% \usepackage{txfonts}
+% \usepackage{stfloats}
+% \usepackage{cite}
+% \usepackage{cases}
+% \usepackage{mathtools}
+% \usepackage{caption}
+% \usepackage{enumerate}	
+% \usepackage{enumitem}
+% \usepackage{amsmath}
+% %\usepackage{xtab}
+% \usepackage{longtable}
+% \usepackage{multirow}
+%\usepackage{algorithm}
+%\usepackage{algpseudocode}
+% \usepackage{enumitem}
+% \usepackage{mathtools}
+% \usepackage{hyperref}
+% %\usepackage[framemethod=tikz]{mdframed}
+% \usepackage{listings}
+%     %\usepackage[latin1]{inputenc}                                 %%
+%     \usepackage{color}                                            %%
+%     \usepackage{array}                                            %%
+%     \usepackage{longtable}                                        %%
+%     \usepackage{calc}                                             %%
+%     \usepackage{multirow}                                         %%
+%     \usepackage{hhline}                                           %%
+%     \usepackage{ifthen}                                           %%
+%   %optionally (for landscape tables embedded in another document): %%
+%     \usepackage{lscape}     
+
+
+% \usepackage{url}
+% \def\UrlBreaks{\do\/\do-}
+
+
+% %\usepackage{stmaryrd}
+
+
+% %\usepackage{wasysym}
+% %\newcounter{MYtempeqncnt}
+% \DeclareMathOperator*{\Res}{Res}
+% %\renewcommand{\baselinestretch}{2}
+% \renewcommand\thesection{\arabic{section}}
+% \renewcommand\thesubsection{\thesection.\arabic{subsection}}
+% \renewcommand\thesubsubsection{\thesubsection.\arabic{subsubsection}}
+
+% \renewcommand\thesectiondis{\arabic{section}}
+% \renewcommand\thesubsectiondis{\thesectiondis.\arabic{subsection}}
+% \renewcommand\thesubsubsectiondis{\thesubsectiondis.\arabic{subsubsection}}
+
+% % correct bad hyphenation here
+% \hyphenation{op-tical net-works semi-conduc-tor}
+
+%\lstset{
+%language=C,
+%frame=single, 
+%breaklines=true
+%}
+
+%\lstset{
+	%%basicstyle=\small\ttfamily\bfseries,
+	%%numberstyle=\small\ttfamily,
+	%language=Octave,
+	%backgroundcolor=\color{white},
+	%%frame=single,
+	%%keywordstyle=\bfseries,
+	%%breaklines=true,
+	%%showstringspaces=false,
+	%%xleftmargin=-10mm,
+	%%aboveskip=-1mm,
+	%%belowskip=0mm
+%}
+
+% %\surroundwithmdframed[width=\columnwidth]{lstlisting}
+% \def\inputGnumericTable{}                                 %%
+% \lstset{
+% %language=C,
+% frame=single, 
+% breaklines=true,
+% columns=fullflexible
+% }
+ 
+
+\begin{document}
+%
+% \tikzstyle{block} = [rectangle, draw,
+%     text width=3em, text centered, minimum height=3em]
+% \tikzstyle{sum} = [draw, circle, node distance=3cm]
+% \tikzstyle{input} = [coordinate]
+% \tikzstyle{output} = [coordinate]
+% \tikzstyle{pinstyle} = [pin edge={to-,thin,black}]
+
+% \theoremstyle{definition}
+% \newtheorem{theorem}{Theorem}[section]
+% \newtheorem{problem}{Problem}
+% \newtheorem{proposition}{Proposition}[section]
+% \newtheorem{lemma}{Lemma}[section]
+% \newtheorem{corollary}[theorem]{Corollary}
+% \newtheorem{example}{Example}[section]
+% \newtheorem{definition}{Definition}[section]
+%\newtheorem{algorithm}{Algorithm}[section]
+%\newtheorem{cor}{Corollary}
+% \newcommand{\BEQA}{\begin{eqnarray}}
+% \newcommand{\EEQA}{\end{eqnarray}}
+% \newcommand{\define}{\stackrel{\triangle}{=}}
+% \bibliographystyle{IEEEtran}
+% %\bibliographystyle{ieeetr}
+% \providecommand{\nCr}[2]{\,^{#1}C_{#2}} % nCr
+% \providecommand{\nPr}[2]{\,^{#1}P_{#2}} % nPr
+% \providecommand{\mbf}{\mathbf}
+% \providecommand{\pr}[1]{\ensuremath{\Pr\left(#1\right)}}
+% \providecommand{\qfunc}[1]{\ensuremath{Q\left(#1\right)}}
+% \providecommand{\sbrak}[1]{\ensuremath{{}\left[#1\right]}}
+% \providecommand{\lsbrak}[1]{\ensuremath{{}\left[#1\right.}}
+% \providecommand{\rsbrak}[1]{\ensuremath{{}\left.#1\right]}}
+% \providecommand{\brak}[1]{\ensuremath{\left(#1\right)}}
+% \providecommand{\lbrak}[1]{\ensuremath{\left(#1\right.}}
+% \providecommand{\rbrak}[1]{\ensuremath{\left.#1\right)}}
+% \providecommand{\cbrak}[1]{\ensuremath{\left\{#1\right\}}}
+% \providecommand{\lcbrak}[1]{\ensuremath{\left\{#1\right.}}
+% \providecommand{\rcbrak}[1]{\ensuremath{\left.#1\right\}}}
+% \theoremstyle{remark}
+% \newtheorem{rem}{Remark}
+% \newcommand{\sgn}{\mathop{\mathrm{sgn}}}
+% \providecommand{\abs}[1]{\left\vert#1\right\vert}
+% \providecommand{\res}[1]{\Res\displaylimits_{#1}} 
+% \providecommand{\norm}[1]{\left\Vert#1\right\Vert}
+% \providecommand{\mtx}[1]{\mathbf{#1}}
+% \providecommand{\mean}[1]{E\left[ #1 \right]}
+% \providecommand{\fourier}{\overset{\mathcal{F}}{ \rightleftharpoons}}
+% %\providecommand{\hilbert}{\overset{\mathcal{H}}{ \rightleftharpoons}}
+% \providecommand{\system}{\overset{\mathcal{H}}{ \longleftrightarrow}}
+% 	%\newcommand{\solution}[2]{\textbf{Solution:}{#1}}
+% \newcommand{\solution}{\noindent \textbf{Solution: }}
+% \newcommand{\myvec}[1]{\ensuremath{\begin{pmatrix}#1\end{pmatrix}}}
+% \providecommand{\dec}[2]{\ensuremath{\overset{#1}{\underset{#2}{\gtrless}}}}
+% \DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+% %\numberwithin{equation}{section}
+% %\numberwithin{problem}{subsection}
+% %\numberwithin{definition}{subsection}
+% \makeatletter
+% \@addtoreset{figure}{section}
+% \makeatother
+% \let\StandardTheFigure\thefigure
+% % %\renewcommand{\thefigure}{\theproblem.\arabic{figure}}
+% \renewcommand{\thefigure}{\thesection}
+% %\numberwithin{figure}{subsection}
+% %\numberwithin{equation}{subsection}
+% %\numberwithin{equation}{section}
+% %\numberwithin{equation}{problem}
+% %\numberwithin{problem}{subsection}
+% \numberwithin{problem}{section}
+% %%\numberwithin{definition}{subsection}
+% %\makeatletter
+% %\@addtoreset{figure}{problem}
+% %\makeatother
+% \makeatletter
+% \@addtoreset{table}{section}
+% \makeatother
+% \let\StandardTheFigure\thefigure
+% \let\StandardTheTable\thetable
+% \let\vec\mathbf
+% \numberwithin{equation}{section}
+% \vspace{3cm}
+% \title{%Convex Optimization in Python
+% 	\logo{
+% 	Random Numbers
+% 	}
+% }
+\title{
+	% \logo{Matrix Analysis through Octave}{\begin{center}\includegraphics[scale=.24]{tlc}\end{center}}{}{HAMDSP}
+   \textbf{ Operating System-2 : CS3523} \\ \LARGE Lecture Notes : Virtual Memory (Chapter 10)
+   \\ \large - Rajesh Kedia  
+}
+% paper title
+% can use linebreaks \\ within to get better formatting as desired
+%\title{Matrix Analysis through Octave}
+%
+%
+% author names and IEEE memberships
+% note positions of commas and nonbreaking spaces ( ~ ) LaTeX will not break
+% a structure at a ~ so this keeps an author's name from being broken across
+% two lines.
+% use \thanks{} to gain access to the first footnote area
+% a separate \thanks must be used for each paragraph as LaTeX2e's \thanks
+% was not built to handle multiple paragraphs
+%
+\author{ CS21BTECH11020 (Harsh Goyal)% <-this % stops a space
+% <-this % stops a space
+%\thanks{J. Doe and J. Doe are with Anonymous University.}% <-this % stops a space
+%\thanks{Manuscript received April 19, 2005; revised January 11, 2007.}}
+}
+% note the % following the last \IEEEmembership and also \thanks - 
+% these prevent an unwanted space from occurring between the last author name
+% and the end of the author line. i.e., if you had this:
+% 
+% \author{....lastname \thanks{...} \thanks{...} }
+%                     ^------------^------------^----Do not want these spaces!
+%
+% a space would be appended to the last name and could cause every name on that
+% line to be shifted left slightly. This is one of those "LaTeX things". For
+% instance, "\textbf{A} \textbf{B}" will typeset as "A B" not "AB". To get
+% "AB" then you have to do: "\textbf{A}\textbf{B}"
+% \thanks is no different in this regard, so shield the last } of each \thanks
+% that ends a line with a % and do not let a space in before the next \thanks.
+% Spaces after \IEEEmembership other than the last one are OK (and needed) as
+% you are supposed to have spaces between the names. For what it is worth,
+% this is a minor point as most people would not even notice if the said evil
+% space somehow managed to creep in.
+% The paper headers
+%\markboth{Journal of \LaTeX\ Class Files,~Vol.~6, No.~1, January~2007}%
+%{Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for Journals}
+% The only time the second header will appear is for the odd numbered pages
+% after the title page when using the twoside option.
+% 
+% *** Note that you probably will NOT want to include the author's ***
+% *** name in the headers of peer review papers.                   ***
+% You can use \ifCLASSOPTIONpeerreview for conditional compilation here if
+% you desire.
+% If you want to put a publisher's ID mark on the page you can do it like
+% this:
+%\IEEEpubid{0000--0000/00\$00.00~\copyright~2007 IEEE}
+% Remember, if you use this you must call \IEEEpubidadjcol in the second
+% column for its text to clear the IEEEpubid mark.
+% make the title area
+\maketitle
+\tableofcontents
+\bigskip
+\renewcommand{\thefigure}{\theenumi}
+\renewcommand{\thetable}{\theenumi}
+% \begin{abstract}
+% This manual provides a simple introduction to the generation of random numbers
+% \end{abstract}
+%%
+
+\parindent 0px
+
+% write the code here
+% \section{
+% 	Code Structure and Implementation
+% }
+
+\rule{\textwidth}{0.4mm}  
+\section{Page Replacement}
+\rule{\textwidth}{0.4mm}  
+It prevents over-allocation of memory by modifying page-fault service routine / handler to include page replacement, 
+i.e swapping of pages and freeing their corresponding frames so that other processes can use them.
+\vspace{3mm}
+
+Use of modify bit (also known as dirty bit) reduces the extra overhead in swapping. 
+If the bit is set, the page is modified (or dirty), so we have to write the page to storage and 
+load the new page to that frame (2 I/O). If the bit is not set means the page is in read-only, 
+we can overwrite its content with the new page (1 I/O). It improves page-fault service time.
+\vspace{3mm}
+
+Page replacement completes separation between logical
+memory and physical memory - large virtual memory can
+be provided on a smaller physical memory.
+\subsection{Basic Page Replacement}
+\hrule
+\vspace{3mm}
+\begin{enumerate}
+	\item Find the location of the desired page in secondary storage.
+	\item Find a free frame:
+	\begin{enumerate}
+		\item If there is a free frame, use it.
+		\item If there is no free frame, use a page-replacement algorithm to select
+		a \textbf{victim frame}.
+		\item Write the victim frame to secondary storage (if necessary).
+		\item Update the page and frame tables accordingly.
+	\end{enumerate}
+	\item Read the desired page into the newly freed frame; change the page and
+	frame tables.
+	\item Continue the process from where the page fault occurred.
+\end{enumerate}
+% \begin{center}
+% 	\includegraphics[scale=0.5]{fig10.10.png}
+% \end{center}
+Page replacement is basic to demand paging. Without page replacement we get restricted by the 
+size of physical memory, therefore no virtual memory can be implemented. To solve this problem, 
+we must develop 
+% TODO
+
+\textbf{Frame-allocation algorithm} determines
+\begin{itemize}
+	\item How many frames to give each process
+	\item Which frames to replace
+\end{itemize}
+
+
+\textbf{Page-replacement algorithm}
+
+\begin{itemize}
+	\item Want lowest page-fault rate on both first access and later accesses.
+\end{itemize}
+These algorithms are evaluated by running them on a particular string of memory
+references \textbf{(reference string)} and computing the number of page-faults on that string.
+\begin{itemize}
+	\item String is just page numbers, not full addresses
+	\item Repeated access to the same page does not cause a page fault
+	\item Results depend on number of frames available
+	\item Example : 7,0,1,2,0,3,0,4,2,3,0,3,0,3,2,1,2,0,1,7,0,1
+\end{itemize}
+
+\subsection{Page Replacement Algorithms}
+\hrule
+\vspace{3mm}
+
+\textbf{Stack Algorithm: }A stack algorithm is an
+algorithm for which it can be shown that the set of pages in memory for $n$
+frames is always a subset of the set of pages that would be in memory with $n+1$ frames.
+\vspace{3mm}
+
+\textbf{Note:} Number of page fault decreases with the number of frames. When some algorithm 
+contradicts this, it is known as \textbf{Belady's anomaly}.
+\begin{figure}[H]
+	\centering
+	% \includegraphics[scale=0.3]{fig10.11.png}
+	\caption{Graph of page faults versus number of frames with no Belady's anomaly}
+\end{figure}
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|p{0.3\linewidth} | p{0.3\linewidth}|p{0.3\linewidth} |}
+		\hline
+		\begin{center}
+			\textbf{FIFO} \\ (First In First Out)
+		\end{center}
+		&
+		\begin{center}
+			\textbf{OPT} \\  (Optimal Page Replacement)
+		\end{center}
+		&
+		\begin{center}
+			\textbf{LRU} \\  (Least Recently Used)
+		\end{center} \\
+		\hline
+		\vspace{1mm}
+		A FIFO replacement algorithm associates with each page the time when that page was brought into memory. When a page must be replaced, the oldest page is chosen.
+
+		\vspace{1mm}
+		& 
+		\vspace{1mm}
+		The optimal algorithm replaces the page that will not be used for the longest period of time.
+		
+		\vspace{1mm}
+		&
+		\vspace{1mm}
+		An LRU algorithm replaces the page that has not been used for the longest period of time.
+		
+		\vspace{1mm}\\
+		\hline
+		\vspace{1mm}
+		Generally, it creates more page-fault than other two algorithm.
+
+		\vspace{1mm}
+		& 
+		\vspace{1mm}
+		It is an optimal algorithm. It produces least number of page-fault, viz. ones which are unavoidable.
+		\vspace{1mm}
+		&
+		\vspace{1mm}
+		It produces less page-fault than FIFO in general but needs hardware support to implement.
+		
+		\vspace{1mm}\\
+		\hline
+		\vspace{1mm}
+		It is implemented using a FIFO Queue.
+
+		\vspace{1mm}
+		& 
+		\vspace{1mm}
+		It cannot be implemented since we can not predict the future.
+		
+		\vspace{1mm}
+		&
+		\vspace{1mm}
+		It can be implemented using a counter (low count value show least recently used page) as well as stack (least recently used page on top).
+		
+		\vspace{1mm}\\
+		\hline
+		\vspace{1mm}
+		It shows Belady's anomaly. Example : 1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5 , page fault increases when number of frames shifts from 3 to 4. 
+		
+		\vspace{1mm}
+		& 
+		\vspace{1mm}
+		It does not show Belady's anomaly.
+		
+		\vspace{1mm}
+		&
+		\vspace{1mm}
+		It does not show Belady's anomaly.
+		
+		\vspace{1mm}\\
+		\hline
+		\vspace{1mm}
+		It is not a Stack Algorithm.
+
+		\vspace{1mm}
+		& 
+		\vspace{1mm}
+		It is a Stack Algorithm.
+
+		\vspace{1mm}
+		&
+		\vspace{1mm}
+		It is a Stack Algorithm.
+		
+		\vspace{1mm}\\
+		\hline
+		
+	\end{tabular}
+\end{table}
+
+
+
+
+
+
+
+\subsection{LRU Approximation Page Replacement}
+\hrule
+\vspace{3mm}
+LRU need special hardware support and still slow. Therefore, there are other algorithms which can be approximated to LRU
+\vspace{3mm}
+
+Pages contain a \textbf{reference bit} which is set on when the page is referenced. Initally all reference bits are initialised to 0.
+
+Few Algorithms are:
+\begin{itemize}
+	\item \textbf{Additional-Reference-Bits Algorithm}
+	\begin{enumerate}
+		\item Keep history bits (say 8-bit) in each page. At some regular interval (say, 100 milliseconds), timer interrupt is made which shift the higher order bit to the right and discard the lowest bit (11101011 -$>$ 01110101). 
+		\item If a page is referenced very frequently, Its higher order bit (refernce bit) is always 1. Therefore, It corresponds to the larger decimal value. Hence, Page with lower corresponding decimal value is evicted since it is the one with is not used in recent past intervals.
+	\end{enumerate}
+	\item \textbf{Second-Chance Algorithm}
+	\begin{enumerate}
+		\item Also Known as Clock Algorithm.
+		\item When a page has been selected, however, we inspect its reference bit. If the value is 0, we proceed to replace this page; but if the reference bit is set to
+		1, we give the page a second chance and move on to select the next FIFO page.
+		When a page gets a second chance, its reference bit is cleared, and its arrival
+		time is reset to the current time.
+		\item Second-chance replacement degenerates to FIFO replacement if all bits are set.
+		\begin{center}
+			% \includegraphics[scale=0.4]{fig10.17.png}
+		\end{center}
+	\end{enumerate}
+	\item \textbf{Enhanced Second-Chance Algorithm}
+	\begin{enumerate}
+		\item We can enhance the second-chance algorithm by considering the reference bit
+		and the modify bit as an ordered pair.
+		\begin{enumerate}
+			\item (0, 0) neither recently used nor modified - best page to replace
+			\item (0, 1) not recently used but modified - not quite as good, because the page
+			will need to be written out before replacement
+			\item (1, 0) recently used but clean - probably will be used again soon
+			\item (1, 1) recently used and modified - probably will be used again soon, and
+			the page will be need to be written out to secondary storage before it can
+			be replaced
+		\end{enumerate}
+		\item Clock Algorithm is used but instead of checking whether the page to which we are pointing has the reference bit set to 1,we examine the class to which that page belongs. We replace the first page
+		encountered in the lowest nonempty class. We may have to scan the
+		circular queue several times before we find a page to be replaced. 
+	\end{enumerate}
+\end{itemize}
+\subsection{Counting-Based Page Replacement}
+\hrule
+\vspace{3mm}
+We can keep a counter of the number of references that have been
+made to each page and develop the following two schemes.
+
+\begin{itemize}
+	\item \textbf{Least Frequently Used (LFU)} : This Page-replacement algorithm requires that
+	the page with the smallest count be replaced. The reason for this selection is
+	that an actively used page should have a large reference count. A problem
+	arises, however, when a page is used heavily during the initial phase of
+	a process but then is never used again. Since it was used heavily, it has
+	a large count and remains in memory even though it is no longer needed.
+	One solution is to shift the counts right by 1 bit at regular intervals, forming
+	an exponentially decaying average usage count.
+	\item \textbf{Most Frequently Used (MFU)} : This Page-replacement algorithm is based
+	on the argument that the page with the smallest count was probably just
+	brought in and has yet to be used.
+\end{itemize}
+
+
+\subsection{Page-Buffering Algorithms}
+\hrule
+\vspace{3mm}
+\begin{itemize}
+	\item Idea is to keep a pool of free frame (page buffer). When a process demands for a frame in the free-frame pool which is empty , It can be allocated from that page buffer. Later, a victim can be selected and evicted. This
+	procedure allows the process to restart as soon as possible, without waiting for the victim page to be written out. When the victim is later written out, its frame
+	is added to the free-frame pool.
+	\item An expansion of this idea is to maintain a list of modified pages. Whenever
+	the paging device is idle, a modified page is selected and is written to secondary
+	storage. Its modify bit is then reset. This scheme increases the probability that
+	a page will be clean when it is selected for replacement and will not need to be
+	written out.
+	\item We can keep the free frame contents intact and note what is in them so that If It referenced again before reused, we do not need to load contents
+	again from disk. It is generally useful to reduce penalty if wrong victim frame is selected
+\end{itemize}
+\subsection{Application and Page Replacement}
+\hrule
+\vspace{3mm}
+
+\begin{itemize}
+	\item Memory intensive applications can cause double buffering. OS as well as application can keep the memory for buffering.
+	\item Some operating systems give special programs
+	the ability to use a secondary storage partition as a large sequential array of
+	logical blocks, without any file-system data structures. This array is some-
+	times called the \textbf{raw disk}, and I/O to this array is termed raw I/O.
+\end{itemize}
+\rule{\textwidth}{0.4mm}  
+\section{Allocation of frames}
+\rule{\textwidth}{0.4mm}  
+
+\begin{enumerate}
+	\item Minimum number of frames per process are decided by the architecture whereas the maximum number of frames per process are decided by the amount of available physical memory.
+	\item Allocating minimum number of frames to process improves performance. Since less frame leads to more page fault which ultimately decrease system performance.
+\end{enumerate}
+\vspace{3mm}
+
+There are some allocating algorithms for frame distribution:-
+
+\subsection{Allocation Algorithms}
+\hrule
+\vspace{3mm}
+
+\begin{itemize}
+	\item \textbf{Equal allocation algorithm}
+	\begin{enumerate}
+		\item If there are $m$ frames are available and there are $n$ processes, each process will get $m/n$ frames.
+		\item Since need of every process is not same, some might used small portion of the frame allocated leads to wastage of memory.
+	\end{enumerate}
+	\item \textbf{Proportional allocation algorithm}
+	\begin{enumerate}
+		\item Memory are allocated to each process according to their size. Let the virtual memory size of the process $p_i$ is $s_i$. Let $$ S  = \sum_i s_i$$. If the total number of available frame are $m$. Each process will get $a_i$ frame ,which is $$a_i = \frac{s_i}{S}\times m$$
+		\item Increase in multiprogramming leads processes to lose its memory to fulfill the need of other processes whereas decrease in multiprogramming makes the process to distribute its frame among the remainig processes.
+	\end{enumerate}
+	\item In both the algorithm, high priority processes are treated same as low priority processes. To give more memory to the high priority processes, instead of using relative size of the process, we can either use priorities of processes or a
+	combination of size and priority as our Proportional factor.
+\end{itemize}
+
+\subsection{Global versus Local Allocation}
+\hrule
+\vspace{3mm}
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|p{0.4\linewidth} | p{0.4\linewidth}|}
+		\hline
+		\begin{center} {\textbf{Global Replacement}}  \end{center} &  \begin{center} {\textbf{Local Replacement}}  \end{center} \\
+		\hline
+		\vspace{3mm} A process can
+	select a replacement frame from the set of all frames, even if that frame is
+	currently allocated to some other process; that is, one process can take a frame
+	from another \vspace{3mm} & \vspace{3mm} Each process select from only its
+	own set of allocated frames. \\
+	\hline
+	\vspace{3mm}
+	Global Replacement policy allows a high-priority process to
+	increase its frame allocation at the expense of a low-priority process \vspace{3mm} & \vspace{3mm} With a local replacement strategy, the number of frames allocated to a process
+	does not change.\\
+	\hline
+	\vspace{3mm}
+	Set of pages
+	in memory for a process depends not only on the paging behavior of that process, but also on the paging behavior of other processes. Therefore, the same
+	process may perform quite differently (for example, taking 0.5 seconds for one
+	execution and 4.3 seconds for the next execution) because of totally external
+	circumstances \vspace{3mm} & \vspace{3mm} The set of pages in memory for a process is affected by the
+	paging behavior of only that process leads to More consistent per-process performance \\
+	\hline
+	\end{tabular}
+\end{table}
+
+\textbf{Note:} Global replacement generally results in greater system throughput. Hence It is more commonly used.
+\vspace{3mm}
+
+Implementing Global Replacement policy :
+\begin{itemize}
+	\item A kernel routines (known as \textbf{Reapers}) are triggered  when number of available frames fall below a minimum threshold which start reclaiming pages until the number of free frames (or available memory) crosses a certain maximum threshold.
+	\begin{center}
+		% \includegraphics[scale=0.5]{fig10.18.png}
+	\end{center}
+	\item If the reaper routine is unable to maintain the list of free frames below the minimum threshold, it suspend the second-chance algorithm and use pure FIFO.
+	\item In Linux, when the amount of free memory falls to very low levels, a routine known as the \textbf{out-of-memory (OOM) killer} selects a process to terminate, thereby freeing its memory. Which process to terminate is decided by its oom\_score (higer oom\_score get terminated) which is proportional to the memory process is using.
+\end{itemize}
+
+\subsection{Major and Minor page faults}
+\hrule
+\vspace{3mm}
+
+\begin{itemize}
+	\item \textbf{Major Faults :} A major page fault occurs when a page is referenced and the
+	page is not in memory. Servicing a major page fault requires reading the
+	desired page from the backing store into a free frame and updating the page
+	table.
+	\item Demand paging typically generates an initially high rate of major page
+	faults.
+	\item \textbf{Minor Faults :} Minor page faults occur when a process does not have a logical mapping
+	to a page, yet that page is in memory.
+	\item Minor fault occur because one of the two reason:
+	\begin{enumerate}
+		\item First, a process may reference a shared library that is in memory, but
+		the process does not have a mapping to it in its page table. In this instance,
+		it is only necessary to update the page table to refer to the existing page in
+		memory.
+		\item Second, when a page is reclaimed
+		from a process and placed on the free-frame list, but the page has not yet
+		been zeroed out and allocated to another process. When this kind of fault
+		occurs, the frame is removed from the free-frame list and reassigned to the
+		process.
+	\end{enumerate}
+\end{itemize}
+\textbf{Note: }One can check the major and minor faults in their Linux system using command \texttt{ps -eo min flt,maj flt,cmd}
+\subsection{Non-Uniform Memory Access}
+\hrule
+\vspace{3mm}
+
+\begin{itemize}
+	\item In real system, memory are not accessed equally. Many system are NUMA which is speed to access to memory varies.
+	\item The performance difference depends on how is CPU interconnected to the memory. Each CPU can made a faster access to its own local memory than other memory
+	\begin{center}
+		% \includegraphics[scale=0.5]{fig10.19.png}
+	\end{center}
+	\item Memory frames are allocated “as close as possible” (closeness refers to the minimum latency) to the CPU on which the process is running in order to improve the performance.
+	\item To further improve the performance, scheduler keep track of the last CPU on which the process runs. If the scheduler tries to schedule each process onto
+	its previous CPU, and the virtual memory system tries to allocate frames for
+	the process close to the CPU on which it is being scheduled, then it leads to improvement in
+	cache hits and decrement in memory access time.
+	\item Solaris uses \textbf{lgroups} (locality groups) to solve this problem.Solaris tries to schedule all threads
+	of a process and allocate all memory of a process within an lgroup. If that is
+	not possible, it picks nearby lgroups for the rest of the resources needed. This
+	practice minimizes overall memory latency and maximizes CPU cache hit rates.
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\rule{\textwidth}{0.4mm}  
+\section{Thrashing}
+\rule{\textwidth}{0.4mm}  
+
+When we do not have enough number of frames and each time whenever a page evict (due to page fault) which is in active use, process make page-fault repeatedly. A process is \textbf{thrashing} if it is spending more time in paging than in executing. This leads to poor performance.  
+
+\subsection{Cause of Thrashing}
+\hrule
+\vspace{3mm}
+
+Operating system montiors the CPU utilization. If CPU utilization is too low, it increases the degree of multiprogramming by introducing new processes to the system. New processes demand for frame allocation and start faulting. If number of frame is not enough, Some frames get evicted. Since all process are active, Evicted frame can be requested by any other processes which can cause faulting followed by eviction of some other frames.
+\vspace{3mm}
+
+These faulting processes use the swap device to move page in and out. Due to multiple swapping request, processes will queue up for the paging device. Therefore, ready queue becomes empty. 
+\vspace{3mm}
+
+As processes wait for the paging device, CPU utilization decreases. The CPU scheduler sees the decreasing CPU utilization and increases the degree of multiprogramming as a result. Adding new processes further decrease CPU utilization cause OS to add more processes which ultimately cause thrashing and and system throughput to plunge. 
+\vspace{3mm}
+
+Due to increase in page-fault rate, the effective memory-access time increases. No work is getting done, because the processes are spending all their time in paging. 
+\begin{figure}[H]
+	\centering
+	% \includegraphics[scale=1]{fig10.20.png}
+	\caption{ As the degree of multi-
+	programming increases, CPU utilization also increases, although more slowly,
+	until a maximum is reached. If the degree of multiprogramming is increased
+	further, thrashing sets in, and CPU utilization drops sharply.}
+\end{figure}
+
+Possible solution :
+\begin{enumerate}
+	\item We can limit the effects of thrashing by using a local replacement algorithm (or priority replacement algorithm). As mentioned earlier, local replacement requires that each process select from only its own set of allocated frames.
+	Thus, if one process starts thrashing, it cannot steal frames from another process and cause the latter to thrash as well. However, the problem is not entirely
+	solved. If processes are thrashing, they will be in the queue for the paging
+	device most of the time. The average service time for a page fault will increase because of the longer average queue for the paging device. Thus, the effective
+	access time will increase even for a process that is not thrashing.
+	\item Using locality model of process execution.
+	\begin{enumerate}
+		\item Key idea is process should be provided with as many  frames as it needs at particular instance.
+		\item The locality model states that, as a process executes, it moves from locality
+		to locality. A locality is a set of pages that are actively used together. A running
+		program is generally composed of several different localities, which may overlap.
+		\item Example: when we call a function in a program, process might jump to a new locality and remains their until function returns. This locality can be accessed again after sometimes.
+		\item The locality model states that all programs will exhibit this basic memory reference structure (or pattern).
+		\item Now, Process will fault for the pages in its locality until all these pages are in memory; then, it will not fault again until it changes localities.
+		\item If enough frames are not provided to accomodate it current locality, process will thrash.
+	\end{enumerate}
+\end{enumerate}
+
+\subsection{Working-Set Model}
+\hrule
+\vspace{3mm}
+
+The \textbf{working-set model} is based on the assumption of locality. \textbf{Working-set window}, $\Delta$ is used to examine
+the most recent page references. The set of pages in the most recent $\Delta$ page references is the \textbf{working set} . If a page is in active use, it will be in
+the working set. If it is no longer being used, it will drop from the working set
+$\Delta$ time units after its last reference.
+
+Working set is an approximation of the program's locality.
+\vspace{3mm}
+
+The accuracy of the working set depends on the selection of $\Delta$
+\begin{enumerate}
+	\item if $\Delta$ is too small, it will encompass the entire locality
+	\item if $\Delta$ is too large, it may overlap several locality. In extreme cases, $\Delta$ is infinite, all the demanded page is in working set.
+\end{enumerate}
+
+\vspace{3mm}
+
+\textbf{How working set prevents thrashing?}
+\begin{enumerate}
+	\item The operating system monitors the working set of each process and allocates to that working set enough frames to provide it with its working-set size.
+	\item If there are enough extra frames, another process can be initiated.
+	\item If the sum of the working-set sizes increases, exceeding the total number of available frames, the operating system selects a process to suspend. The process's pages are written out (swapped), and its frames are reallocated to other processes. The suspended process can be restarted later.
+\end{enumerate}
+
+It keep the degree of the multiprogramming as high as possible (maximizing CPU utilization) as well as avoiding thrashing. 
+
+\vspace{3mm}
+
+\textbf{Working-Sets and Page-Fault Rates :-} While demand paging, when process shifts from one locality to other, large number of page faults occur whereas when process remains in its locality, very low page faults happens. The span of time between the start
+of one peak and the start of the next peak represents the transition from one
+working set to another
+\begin{center}
+	% \includegraphics[scale=0.6]{fig10.22.1.png}
+\end{center} 
+Major difficulty is to maintain the working set and determining its size.
+
+\subsection{Page-Fault Frequency}
+\hrule
+\vspace{3mm}
+\begin{enumerate}
+	\item When page fault is above some threshold (upper limit),  OS allocates new frames to that process.
+	\item When page fault is below some threshold (lower limit), OS remove some frames from that process.
+	\item As with working-set strategy, if the page fault increases and no free frames are available, OS suspend some process and reallocate its frames to other process. The suspended process restarted later.
+\end{enumerate}
+\begin{center}
+	% \includegraphics[scale=0.5]{fig10.23.png}
+\end{center} 
+\end{document}

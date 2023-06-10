@@ -1,0 +1,55 @@
+\documentclass{amsart}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\begin{document}
+\newcommand{\me}{
+    \author{Abhay Shankar K: cs21btech11001}
+    \maketitle
+}
+    \title{OS (CS3523) Lab Exam : Problem 2}
+    \me
+
+    \section{FIFO}
+    \begin{enumerate}
+        \item All code within \texttt{FIFO()}.
+        \item Opens file in read-only mode and reads the page size and frame number. 
+        \item Then initialises a \texttt{deque<int>}, which is how we implement FIFO.
+        \item Tries to read an address from file. If EOF is encountered, returns. 
+        \item Finds the page number of the address and stores in \texttt{acc}.
+        \item Checks if the page is already present - if it is, repeat 4.
+        \item If the page is not in the deque, a fault occurs. If there is no empty frame, we dequeue the appropriate page as dictated by FIFO and then enqueue the faulting page. Otherwise we enqueue directly.
+        \item Repeat 4.
+    \end{enumerate}
+
+    \section{LRU}
+     \begin{enumerate}
+        \item All code within \texttt{LRU()}.
+        \item Opens file in read-only mode and reads the page size and frame number. 
+        \item Then initialises a \texttt{deque<int>}. We implement LRU within this deque.
+        \item Tries to read an address from file. If EOF is encountered, returns. 
+        \item Finds the page number of the address and stores in \texttt{acc}.
+        \item If the page is already present, moves it to the front of the deque. Repeat 4.
+        \item If page faults, we check if a free frame exists. If it does, we push the new page onto the front of the queue. If there is no free frame, we pop and evict the page at the back of the queue. This is the LRU page, as each usage moves a page to the front of the queue. We then push the new page onto the front of the queue.
+        \item Repeat 4.
+        \item This does not store the frame list at any point in time, it only stores the history of allocation.
+    \end{enumerate}
+
+    \section{OPT}
+     \begin{enumerate}
+        \item All code within \texttt{OPT()}.
+        \item Opens file in read-only mode and reads the page size and frame number. 
+        \item Then initialises a \texttt{deque<int>}. We load the entire list of pages into this deque.
+        \item Pop the first page in the deque.
+        \item If the page is already present in memory, repeat 4.
+        \item If page faults, we check if a free frame exists. If it does, we push the new page onto the back of the queue. If there is no free frame, we select the frame containing the appropriate page as dictated by OPT, i.e. the one used farthest in the future, and replaces it with the faulting page.
+        \item Repeat 4.
+    \end{enumerate}
+
+    \section{Summary} 
+    \begin{itemize}
+        \item Due to alignment errors (the program treated the frame size and number as addresses), the file is reopened and closed in each paging function.
+        \item The program takes a very long time to run if the page size exceeds \(10^9\). This may be due to excessive IO. Please do not enter larger values :).
+        \item Naturally, the file is closed at the end of each paging function.
+    \end{itemize}
+\end{document}
